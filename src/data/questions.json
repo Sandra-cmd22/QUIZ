@@ -1,1437 +1,1638 @@
-{ "perguntas": [
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual o maior país do mundo em área?",
-    "opcoes": ["China", "Canadá", "Estados Unidos", "Rússia"],
-    "resposta": "Rússia"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual o país mais populoso do mundo em 2023?",
-    "opcoes": ["Índia", "China", "Estados Unidos", "Indonésia"],
-    "resposta": "Índia"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o primeiro homem a pisar na Lua em 1969?",
-    "opcoes": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
-    "resposta": "Neil Armstrong"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o menor país do mundo em território?",
-    "opcoes": ["Mônaco", "San Marino", "Liechtenstein", "Vaticano"],
-    "resposta": "Vaticano"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
-    "opcoes": ["1985", "1987", "1989", "1991"],
-    "resposta": "1989"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual oceano é o maior do planeta?",
-    "opcoes": ["Atlântico", "Índico", "Ártico", "Pacífico"],
-    "resposta": "Pacífico"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem escreveu 'A Origem das Espécies'?",
-    "opcoes": ["Gregor Mendel", "Isaac Newton", "Charles Darwin", "Galileu Galilei"],
-    "resposta": "Charles Darwin"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é a capital do Canadá?",
-    "opcoes": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
-    "resposta": "Ottawa"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o elemento químico representado pelo símbolo 'Au'?",
-    "opcoes": ["Prata", "Ouro", "Cobre", "Alumínio"],
-    "resposta": "Ouro"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o continente com o maior número de países?",
-    "opcoes": ["África", "Ásia", "Europa", "América do Sul"],
-    "resposta": "África"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem pintou a obra 'Guernica'?",
-    "opcoes": ["Pablo Picasso", "Salvador Dalí", "Claude Monet", "Leonardo da Vinci"],
-    "resposta": "Pablo Picasso"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é a montanha mais alta do mundo?",
-    "opcoes": ["K2", "Everest", "Makalu", "Kilimanjaro"],
-    "resposta": "Everest"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual foi o primeiro país a legalizar o casamento entre pessoas do mesmo sexo?",
-    "opcoes": ["Canadá", "Países Baixos", "Espanha", "Noruega"],
-    "resposta": "Países Baixos"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem descobriu o Brasil em 1500?",
-    "opcoes": ["Cristóvão Colombo", "Vasco da Gama", "Pedro Álvares Cabral", "Fernão de Magalhães"],
-    "resposta": "Pedro Álvares Cabral"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual foi a primeira cidade a sediar os Jogos Olímpicos modernos em 1896?",
-    "opcoes": ["Paris", "Roma", "Atenas", "Londres"],
-    "resposta": "Atenas"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é a capital da Austrália?",
-    "opcoes": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
-    "resposta": "Canberra"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
-    "opcoes": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
-    "resposta": "George Washington"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o rio mais extenso do mundo?",
-    "opcoes": ["Nilo", "Amazonas", "Yangtzé", "Mississippi"],
-    "resposta": "Amazonas"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o cientista que formulou a Teoria da Relatividade?",
-    "opcoes": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Max Planck"],
-    "resposta": "Albert Einstein"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
-    "opcoes": ["África do Sul", "Alemanha", "Brasil", "Rússia"],
-    "resposta": "Brasil"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o idioma mais falado no mundo como língua materna?",
-    "opcoes": ["Inglês", "Espanhol", "Mandarim", "Hindi"],
-    "resposta": "Mandarim"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual país é conhecido como 'a terra do sol nascente'?",
-    "opcoes": ["China", "Japão", "Coreia do Sul", "Tailândia"],
-    "resposta": "Japão"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi a primeira mulher a ganhar um Prêmio Nobel?",
-    "opcoes": ["Rosalind Franklin", "Marie Curie", "Ada Lovelace", "Florence Nightingale"],
-    "resposta": "Marie Curie"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Em que ano ocorreu a Revolução Francesa?",
-    "opcoes": ["1776", "1789", "1812", "1830"],
-    "resposta": "1789"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é a moeda oficial do Japão?",
-    "opcoes": ["Yuan", "Won", "Yen", "Baht"],
-    "resposta": "Yen"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual escritor britânico criou o personagem Sherlock Holmes?",
-    "opcoes": ["Agatha Christie", "Arthur Conan Doyle", "Charles Dickens", "J.R.R. Tolkien"],
-    "resposta": "Arthur Conan Doyle"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o deserto mais seco do mundo?",
-    "opcoes": ["Saara", "Kalahari", "Atacama", "Gobi"],
-    "resposta": "Atacama"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual país tem o formato de uma bota no mapa?",
-    "opcoes": ["Espanha", "Itália", "Grécia", "Turquia"],
-    "resposta": "Itália"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o animal símbolo da Austrália?",
-    "opcoes": ["Canguru", "Coala", "Emu", "Diabo-da-Tasmânia"],
-    "resposta": "Canguru"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o líder do movimento de independência da Índia?",
-    "opcoes": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "Indira Gandhi"],
-    "resposta": "Mahatma Gandhi"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual planeta é conhecido como 'planeta vermelho'?",
-    "opcoes": ["Marte", "Vênus", "Júpiter", "Mercúrio"],
-    "resposta": "Marte"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o autor de 'Dom Quixote'?",
-    "opcoes": ["Miguel de Cervantes", "Gabriel García Márquez", "Pablo Neruda", "Jorge Luis Borges"],
-    "resposta": "Miguel de Cervantes"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual foi a primeira civilização a usar escrita cuneiforme?",
-    "opcoes": ["Egípcios", "Sumérios", "Babilônios", "Hititas"],
-    "resposta": "Sumérios"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem pintou a Mona Lisa?",
-    "opcoes": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
-    "resposta": "Leonardo da Vinci"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual cidade é conhecida como 'a cidade eterna'?",
-    "opcoes": ["Atenas", "Roma", "Jerusalém", "Istambul"],
-    "resposta": "Roma"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual filósofo grego foi mestre de Alexandre, o Grande?",
-    "opcoes": ["Sócrates", "Platão", "Aristóteles", "Heródoto"],
-    "resposta": "Aristóteles"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o maior arquipélago do mundo?",
-    "opcoes": ["Filipinas", "Japão", "Indonésia", "Maldivas"],
-    "resposta": "Indonésia"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Em que ano o Brasil se tornou independente de Portugal?",
-    "opcoes": ["1808", "1822", "1889", "1891"],
-    "resposta": "1822"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o primeiro homem a orbitar a Terra?",
-    "opcoes": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
-    "resposta": "Yuri Gagarin"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o maior deserto do mundo em extensão?",
-    "opcoes": ["Saara", "Atacama", "Antártica", "Gobi"],
-    "resposta": "Antártica"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o autor da obra 'A República'?",
-    "opcoes": ["Sócrates", "Platão", "Aristóteles", "Epicuro"],
-    "resposta": "Platão"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual país foi o primeiro a enviar um satélite artificial ao espaço?",
-    "opcoes": ["Estados Unidos", "União Soviética", "China", "Japão"],
-    "resposta": "União Soviética"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é a moeda oficial do Reino Unido?",
-    "opcoes": ["Euro", "Libra Esterlina", "Dólar", "Franco"],
-    "resposta": "Libra Esterlina"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem escreveu 'A Divina Comédia'?",
-    "opcoes": ["Dante Alighieri", "Giovanni Boccaccio", "Petrarca", "Maquiavel"],
-    "resposta": "Dante Alighieri"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é o maior lago de água doce do mundo em volume?",
-    "opcoes": ["Lago Vitória", "Lago Superior", "Lago Baikal", "Lago Tanganica"],
-    "resposta": "Lago Baikal"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual foi o primeiro país da América Latina a conquistar a independência?",
-    "opcoes": ["México", "Brasil", "Haiti", "Argentina"],
-    "resposta": "Haiti"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual civilização construiu Machu Picchu?",
-    "opcoes": ["Maias", "Astecas", "Incas", "Olmecas"],
-    "resposta": "Incas"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o cientista que formulou as leis do movimento e da gravitação universal?",
-    "opcoes": ["Galileu Galilei", "Isaac Newton", "Albert Einstein", "Johannes Kepler"],
-    "resposta": "Isaac Newton"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual é a capital da Islândia?",
-    "opcoes": ["Oslo", "Reykjavik", "Helsinque", "Estocolmo"],
-    "resposta": "Reykjavik"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Quem foi o responsável pela unificação da Alemanha em 1871?",
-    "opcoes": ["Otto von Bismarck", "Frederico II", "Guilherme II", "Karl Marx"],
-    "resposta": "Otto von Bismarck"
-  },
-  {
-    "categoria": "Conhecimentos gerais",
-    "pergunta": "Qual país é famoso por suas pirâmides antigas?",
-    "opcoes": ["México", "Egito", "Peru", "China"],
-    "resposta": "Egito"
-  }
-,
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
-    "opcoes": ["Forrest Gump", "Pulp Fiction", "O Resgate do Soldado Ryan", "Clube da Luta"],
-    "resposta": "Forrest Gump"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem dirigiu o filme 'A Origem' (Inception)?",
-    "opcoes": ["Christopher Nolan", "Steven Spielberg", "Martin Scorsese", "James Cameron"],
-    "resposta": "Christopher Nolan"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'Breaking Bad', qual é o nome verdadeiro de Heisenberg?",
-    "opcoes": ["Jesse Pinkman", "Walter White", "Saul Goodman", "Hank Schrader"],
-    "resposta": "Walter White"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual foi o primeiro filme da Marvel Studios lançado oficialmente?",
-    "opcoes": ["Homem de Ferro", "O Incrível Hulk", "Capitão América", "Thor"],
-    "resposta": "Homem de Ferro"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem interpretou Coringa em 'O Cavaleiro das Trevas' (2008)?",
-    "opcoes": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
-    "resposta": "Heath Ledger"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série tem os personagens Ross, Rachel, Monica, Chandler, Joey e Phoebe?",
-    "opcoes": ["Friends", "How I Met Your Mother", "The Office", "Seinfeld"],
-    "resposta": "Friends"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'Game of Thrones', quem é a Mãe dos Dragões?",
-    "opcoes": ["Cersei Lannister", "Arya Stark", "Sansa Stark", "Daenerys Targaryen"],
-    "resposta": "Daenerys Targaryen"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme da Pixar tem como protagonistas dois robôs chamados Wall-E e Eve?",
-    "opcoes": ["Up", "Wall-E", "Toy Story", "Carros"],
-    "resposta": "Wall-E"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem dirigiu 'Titanic' (1997)?",
-    "opcoes": ["James Cameron", "Ridley Scott", "Steven Spielberg", "Ron Howard"],
-    "resposta": "James Cameron"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'Stranger Things', qual é o nome da personagem com poderes telecinéticos?",
-    "opcoes": ["Nancy", "Max", "Eleven", "Robin"],
-    "resposta": "Eleven"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme popularizou a frase 'Que a Força esteja com você'?",
-    "opcoes": ["Star Wars", "Star Trek", "O Senhor dos Anéis", "Matrix"],
-    "resposta": "Star Wars"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem interpretou Jack Sparrow em 'Piratas do Caribe'?",
-    "opcoes": ["Johnny Depp", "Orlando Bloom", "Hugh Jackman", "Leonardo DiCaprio"],
-    "resposta": "Johnny Depp"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série da Netflix acompanha a vida de um cartel colombiano?",
-    "opcoes": ["Narcos", "La Casa de Papel", "Breaking Bad", "Ozark"],
-    "resposta": "Narcos"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme de terror é famoso pela frase 'Here’s Johnny!'?",
-    "opcoes": ["O Iluminado", "Halloween", "Pânico", "O Exorcista"],
-    "resposta": "O Iluminado"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual é o verdadeiro nome do personagem Wolverine?",
-    "opcoes": ["James Howlett", "Logan", "Victor Creed", "Charles Xavier"],
-    "resposta": "James Howlett"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série tem a música tema 'I'll Be There for You' da banda The Rembrandts?",
-    "opcoes": ["Friends", "How I Met Your Mother", "That '70s Show", "Scrubs"],
-    "resposta": "Friends"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual atriz interpretou Katniss Everdeen em 'Jogos Vorazes'?",
-    "opcoes": ["Jennifer Lawrence", "Emma Stone", "Natalie Portman", "Scarlett Johansson"],
-    "resposta": "Jennifer Lawrence"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem dirigiu 'O Senhor dos Anéis: A Sociedade do Anel'?",
-    "opcoes": ["Peter Jackson", "George Lucas", "Guillermo del Toro", "Francis Ford Coppola"],
-    "resposta": "Peter Jackson"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série mostra a história de sobreviventes em um apocalipse zumbi?",
-    "opcoes": ["The Walking Dead", "Fear the Walking Dead", "Z Nation", "Black Summer"],
-    "resposta": "The Walking Dead"
-  }
-,
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual foi o primeiro filme da saga Harry Potter?",
-    "opcoes": ["A Câmara Secreta", "A Pedra Filosofal", "O Prisioneiro de Azkaban", "O Cálice de Fogo"],
-    "resposta": "A Pedra Filosofal"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem interpretou o Coringa no filme de 2019?",
-    "opcoes": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
-    "resposta": "Joaquin Phoenix"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme da Disney apresenta a música 'Let It Go'?",
-    "opcoes": ["Moana", "Frozen", "Encanto", "Valente"],
-    "resposta": "Frozen"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'O Senhor dos Anéis', quem destrói o Um Anel?",
-    "opcoes": ["Frodo", "Sam", "Gollum", "Aragorn"],
-    "resposta": "Gollum"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série da HBO acompanha a vida de mafiosos de Nova Jersey?",
-    "opcoes": ["The Sopranos", "Boardwalk Empire", "Ray Donovan", "Peaky Blinders"],
-    "resposta": "The Sopranos"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem é o protagonista da trilogia Matrix?",
-    "opcoes": ["Morpheus", "Neo", "Trinity", "Smith"],
-    "resposta": "Neo"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'La Casa de Papel', qual o nome do mentor do grupo?",
-    "opcoes": ["Berlim", "Professor", "Rio", "Lisboa"],
-    "resposta": "Professor"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual foi o primeiro filme de animação da Disney?",
-    "opcoes": ["Bambi", "Branca de Neve e os Sete Anões", "Cinderela", "Fantasia"],
-    "resposta": "Branca de Neve e os Sete Anões"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'Vingadores: Ultimato', quem segura o martelo de Thor além dele?",
-    "opcoes": ["Homem de Ferro", "Capitão América", "Hulk", "Thanos"],
-    "resposta": "Capitão América"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série tem os dragões Drogon, Rhaegal e Viserion?",
-    "opcoes": ["The Witcher", "Game of Thrones", "Shadow and Bone", "House of the Dragon"],
-    "resposta": "Game of Thrones"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem é o vilão principal de 'Os Vingadores' (2012)?",
-    "opcoes": ["Ultron", "Thanos", "Loki", "Hela"],
-    "resposta": "Loki"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme da Pixar mostra uma viagem pelas emoções de uma menina chamada Riley?",
-    "opcoes": ["Divertida Mente", "Up", "Procurando Nemo", "Soul"],
-    "resposta": "Divertida Mente"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual ator interpretou Wolverine por mais de 15 anos?",
-    "opcoes": ["Tom Hardy", "Hugh Jackman", "Chris Hemsworth", "Gerard Butler"],
-    "resposta": "Hugh Jackman"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'Star Wars', quem é o pai de Luke Skywalker?",
-    "opcoes": ["Yoda", "Obi-Wan Kenobi", "Anakin Skywalker", "Mace Windu"],
-    "resposta": "Anakin Skywalker"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série britânica mostra a vida da Rainha Elizabeth II?",
-    "opcoes": ["The Tudors", "The Crown", "Downton Abbey", "Victoria"],
-    "resposta": "The Crown"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual ator interpretou Tony Stark no Universo Cinematográfico da Marvel?",
-    "opcoes": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Tom Holland"],
-    "resposta": "Robert Downey Jr."
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme ficou famoso pela frase 'Eu vejo gente morta'?",
-    "opcoes": ["O Sexto Sentido", "O Chamado", "Os Outros", "Poltergeist"],
-    "resposta": "O Sexto Sentido"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série tem o professor Walter White e seu aluno Jesse Pinkman?",
-    "opcoes": ["Better Call Saul", "Breaking Bad", "Ozark", "Narcos"],
-    "resposta": "Breaking Bad"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem interpretou Gandalf em 'O Senhor dos Anéis'?",
-    "opcoes": ["Christopher Lee", "Ian McKellen", "Richard Harris", "Michael Gambon"],
-    "resposta": "Ian McKellen"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme brasileiro ganhou o prêmio de Melhor Filme Estrangeiro no Oscar?",
-    "opcoes": ["Cidade de Deus", "Central do Brasil", "O Pagador de Promessas", "Bacurau"],
-    "resposta": "O Pagador de Promessas"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme da Marvel introduziu o Pantera Negra?",
-    "opcoes": ["Vingadores: Guerra Infinita", "Capitão América: Guerra Civil", "Pantera Negra", "Thor: Ragnarok"],
-    "resposta": "Capitão América: Guerra Civil"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual é a profissão de Dexter na série 'Dexter'?",
-    "opcoes": ["Detetive", "Médico legista", "Advogado", "Policial"],
-    "resposta": "Médico legista"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Em 'The Office', quem é o chefe da filial de Scranton?",
-    "opcoes": ["Jim Halpert", "Michael Scott", "Dwight Schrute", "Stanley Hudson"],
-    "resposta": "Michael Scott"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Quem dirigiu 'Clube da Luta' (1999)?",
-    "opcoes": ["David Fincher", "Quentin Tarantino", "Guy Ritchie", "Ridley Scott"],
-    "resposta": "David Fincher"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série de fantasia é baseada nos livros de Andrzej Sapkowski?",
-    "opcoes": ["The Witcher", "Shadowhunters", "Game of Thrones", "His Dark Materials"],
-    "resposta": "The Witcher"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual é o nome do palhaço assassino criado por Stephen King?",
-    "opcoes": ["Pennywise", "Joker", "Twisty", "Art"],
-    "resposta": "Pennywise"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual filme de Quentin Tarantino mostra a cena icônica da dança de John Travolta e Uma Thurman?",
-    "opcoes": ["Pulp Fiction", "Kill Bill", "Cães de Aluguel", "Jackie Brown"],
-    "resposta": "Pulp Fiction"
-  },
-  {
-    "categoria": "Filmes e Séries",
-    "pergunta": "Qual série da Netflix é baseada em um jogo de xadrez?",
-    "opcoes": ["The Queen's Gambit", "Mindhunter", "You", "Dark"],
-    "resposta": "The Queen's Gambit"
-  }
-,
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu '1984'?",
-    "opcoes": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Franz Kafka"],
-    "resposta": "George Orwell"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual autor criou o detetive Sherlock Holmes?",
-    "opcoes": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Charles Dickens"],
-    "resposta": "Arthur Conan Doyle"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'Dom Casmurro'?",
-    "opcoes": ["José de Alencar", "Machado de Assis", "Graciliano Ramos", "Lima Barreto"],
-    "resposta": "Machado de Assis"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é o livro mais vendido do mundo depois da Bíblia?",
-    "opcoes": ["O Senhor dos Anéis", "Dom Quixote", "Harry Potter", "O Pequeno Príncipe"],
-    "resposta": "Dom Quixote"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem é o autor da série 'As Crônicas de Nárnia'?",
-    "opcoes": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "Philip Pullman"],
-    "resposta": "C.S. Lewis"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantor é conhecido como o 'Rei do Pop'?",
-    "opcoes": ["Elvis Presley", "Michael Jackson", "Prince", "Freddie Mercury"],
-    "resposta": "Michael Jackson"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda lançou o álbum 'Abbey Road'?",
-    "opcoes": ["The Beatles", "The Rolling Stones", "Pink Floyd", "Led Zeppelin"],
-    "resposta": "The Beatles"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Nome da Rosa'?",
-    "opcoes": ["Italo Calvino", "Umberto Eco", "José Saramago", "Gabriel García Márquez"],
-    "resposta": "Umberto Eco"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é o nome verdadeiro de Bob Dylan?",
-    "opcoes": ["Robert Zimmerman", "Paul Simon", "David Bowie", "Robert Plant"],
-    "resposta": "Robert Zimmerman"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é o título do primeiro livro da saga Harry Potter?",
-    "opcoes": ["A Câmara Secreta", "A Pedra Filosofal", "O Prisioneiro de Azkaban", "O Cálice de Fogo"],
-    "resposta": "A Pedra Filosofal"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é a ópera mais famosa de Giuseppe Verdi?",
-    "opcoes": ["Aida", "La Traviata", "Rigoletto", "Otello"],
-    "resposta": "La Traviata"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem é o autor de 'O Senhor dos Anéis'?",
-    "opcoes": ["J.K. Rowling", "C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin"],
-    "resposta": "J.R.R. Tolkien"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantor brasileiro é conhecido como o 'Rei'?",
-    "opcoes": ["Chico Buarque", "Roberto Carlos", "Caetano Veloso", "Gilberto Gil"],
-    "resposta": "Roberto Carlos"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Pequeno Príncipe'?",
-    "opcoes": ["Antoine de Saint-Exupéry", "Victor Hugo", "Marcel Proust", "Albert Camus"],
-    "resposta": "Antoine de Saint-Exupéry"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda lançou o álbum 'The Dark Side of the Moon'?",
-    "opcoes": ["Pink Floyd", "The Who", "Queen", "Genesis"],
-    "resposta": "Pink Floyd"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual autor português ganhou o Prêmio Nobel de Literatura em 1998?",
-    "opcoes": ["Fernando Pessoa", "Eça de Queiroz", "José Saramago", "Camilo Castelo Branco"],
-    "resposta": "José Saramago"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é o nome da vocalista da banda Paramore?",
-    "opcoes": ["Avril Lavigne", "Hayley Williams", "Amy Lee", "Florence Welch"],
-    "resposta": "Hayley Williams"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'Grande Sertão: Veredas'?",
-    "opcoes": ["Manuel Bandeira", "Carlos Drummond de Andrade", "João Guimarães Rosa", "Graciliano Ramos"],
-    "resposta": "João Guimarães Rosa"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantor é conhecido como o 'Rei do Rock'?",
-    "opcoes": ["Chuck Berry", "Little Richard", "Elvis Presley", "Buddy Holly"],
-    "resposta": "Elvis Presley"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é o título do famoso romance de Jane Austen publicado em 1813?",
-    "opcoes": ["Razão e Sensibilidade", "Orgulho e Preconceito", "Emma", "Mansfield Park"],
-    "resposta": "Orgulho e Preconceito"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda gravou a música 'Bohemian Rhapsody'?",
-    "opcoes": ["Queen", "The Beatles", "The Doors", "Led Zeppelin"],
-    "resposta": "Queen"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'Cem Anos de Solidão'?",
-    "opcoes": ["Mario Vargas Llosa", "Pablo Neruda", "Gabriel García Márquez", "Isabel Allende"],
-    "resposta": "Gabriel García Márquez"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantora lançou o álbum 'Lemonade'?",
-    "opcoes": ["Rihanna", "Adele", "Beyoncé", "Taylor Swift"],
-    "resposta": "Beyoncé"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é o título do livro clássico de Mary Shelley?",
-    "opcoes": ["Drácula", "Frankenstein", "O Médico e o Monstro", "A Máquina do Tempo"],
-    "resposta": "Frankenstein"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem é considerado o 'Pai do Samba' no Brasil?",
-    "opcoes": ["Cartola", "Noel Rosa", "Pixinguinha", "Donga"],
-    "resposta": "Donga"
-  }
-,
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Morro dos Ventos Uivantes'?",
-    "opcoes": ["Emily Brontë", "Charlotte Brontë", "Jane Austen", "Mary Shelley"],
-    "resposta": "Emily Brontë"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantor lançou o álbum 'Thriller'?",
-    "opcoes": ["Prince", "Michael Jackson", "Madonna", "David Bowie"],
-    "resposta": "Michael Jackson"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Hobbit'?",
-    "opcoes": ["C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin", "Philip Pullman"],
-    "resposta": "J.R.R. Tolkien"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda lançou a música 'Stairway to Heaven'?",
-    "opcoes": ["Led Zeppelin", "Pink Floyd", "Queen", "The Rolling Stones"],
-    "resposta": "Led Zeppelin"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Apanhador no Campo de Centeio'?",
-    "opcoes": ["J.D. Salinger", "Ernest Hemingway", "F. Scott Fitzgerald", "Mark Twain"],
-    "resposta": "J.D. Salinger"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantora lançou o álbum '1989'?",
-    "opcoes": ["Katy Perry", "Taylor Swift", "Adele", "Beyoncé"],
-    "resposta": "Taylor Swift"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem é o autor da saga 'As Crônicas de Gelo e Fogo'?",
-    "opcoes": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "Patrick Rothfuss"],
-    "resposta": "George R.R. Martin"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda lançou 'Hotel California'?",
-    "opcoes": ["The Eagles", "The Doors", "Fleetwood Mac", "AC/DC"],
-    "resposta": "The Eagles"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Grande Gatsby'?",
-    "opcoes": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "William Faulkner"],
-    "resposta": "F. Scott Fitzgerald"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual é o verdadeiro nome da cantora Lady Gaga?",
-    "opcoes": ["Stefani Germanotta", "Robyn Fenty", "Alicia Moore", "Katheryn Hudson"],
-    "resposta": "Stefani Germanotta"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'Coração das Trevas'?",
-    "opcoes": ["Joseph Conrad", "Herman Melville", "Victor Hugo", "Charles Dickens"],
-    "resposta": "Joseph Conrad"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda britânica lançou o álbum 'A Night at the Opera'?",
-    "opcoes": ["Queen", "The Beatles", "The Rolling Stones", "Pink Floyd"],
-    "resposta": "Queen"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Alquimista'?",
-    "opcoes": ["Paulo Coelho", "Jorge Amado", "Machado de Assis", "Clarice Lispector"],
-    "resposta": "Paulo Coelho"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantor lançou a música 'Shape of You'?",
-    "opcoes": ["Shawn Mendes", "Ed Sheeran", "Justin Bieber", "Sam Smith"],
-    "resposta": "Ed Sheeran"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Senhor das Moscas'?",
-    "opcoes": ["William Golding", "Aldous Huxley", "George Orwell", "Ray Bradbury"],
-    "resposta": "William Golding"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda lançou 'Back in Black'?",
-    "opcoes": ["AC/DC", "Metallica", "Led Zeppelin", "Guns N' Roses"],
-    "resposta": "AC/DC"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'Crime e Castigo'?",
-    "opcoes": ["Fiódor Dostoiévski", "Leo Tolstói", "Anton Tchekhov", "Nikolai Gógol"],
-    "resposta": "Fiódor Dostoiévski"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantora lançou o álbum '21'?",
-    "opcoes": ["Adele", "Beyoncé", "Rihanna", "Taylor Swift"],
-    "resposta": "Adele"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'Moby Dick'?",
-    "opcoes": ["Herman Melville", "Joseph Conrad", "Charles Dickens", "Mark Twain"],
-    "resposta": "Herman Melville"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual banda lançou 'Sgt. Pepper's Lonely Hearts Club Band'?",
-    "opcoes": ["The Beatles", "The Rolling Stones", "The Who", "Pink Floyd"],
-    "resposta": "The Beatles"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Retrato de Dorian Gray'?",
-    "opcoes": ["Oscar Wilde", "Edgar Allan Poe", "Mary Shelley", "Bram Stoker"],
-    "resposta": "Oscar Wilde"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantor lançou 'Rolling in the Deep'?",
-    "opcoes": ["Adele", "Beyoncé", "Rihanna", "Lady Gaga"],
-    "resposta": "Adele"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Hobbit'?",
-    "opcoes": ["C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin", "Philip Pullman"],
-    "resposta": "J.R.R. Tolkien"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Qual cantor brasileiro lançou o álbum 'Acústico MTV' em 1992?",
-    "opcoes": ["Legião Urbana", "Barão Vermelho", "Titãs", "Cazuza"],
-    "resposta": "Legião Urbana"
-  },
-  {
-    "categoria": "Livros e Músicas",
-    "pergunta": "Quem escreveu 'O Processo'?",
-    "opcoes": ["Franz Kafka", "Albert Camus", "Victor Hugo", "Fyodor Dostoiévski"],
-    "resposta": "Franz Kafka"
-  }
-,{
+{
   "perguntas": [
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a lei de Newton que afirma que 'a toda ação corresponde uma reação, de igual intensidade, mesma direção e sentido oposto'?",
-      "opcoes": [
-        "Primeira Lei de Newton (Lei da Inércia)",
-        "Segunda Lei de Newton (Princípio Fundamental da Dinâmica)",
-        "Terceira Lei de Newton (Lei da Ação e Reação)",
-        "Lei da Gravitação Universal"
-      ],
-      "resposta": "Terceira Lei de Newton (Lei da Ação e Reação)"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o maior país do mundo em área?",
+      "opcoes": ["China", "Canadá", "Estados Unidos", "Rússia"],
+      "resposta": "Rússia"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um círculo, onde 'r' é o raio?",
-      "opcoes": [
-        "A = r²",
-        "A = 2πr",
-        "A = πr²",
-        "A = r³"
-      ],
-      "resposta": "A = πr²"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o país mais populoso do mundo em 2023?",
+      "opcoes": ["Índia", "China", "Estados Unidos", "Indonésia"],
+      "resposta": "Índia"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do processo em que as plantas produzem seu próprio alimento?",
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o primeiro homem a pisar na Lua em 1969?",
       "opcoes": [
-        "Respiração celular",
-        "Fotossíntese",
-        "Transpiração",
-        "Reprodução"
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Michael Collins"
       ],
-      "resposta": "Fotossíntese"
+      "resposta": "Neil Armstrong"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do período histórico que se seguiu à Queda do Império Romano do Ocidente em 476 d.C.?",
-      "opcoes": [
-        "Idade Antiga",
-        "Idade Média",
-        "Idade Moderna",
-        "Idade Contemporânea"
-      ],
-      "resposta": "Idade Média"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o menor país do mundo em território?",
+      "opcoes": ["Mônaco", "San Marino", "Liechtenstein", "Vaticano"],
+      "resposta": "Vaticano"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do ácido sulfúrico?",
-      "opcoes": [
-        "H2O",
-        "HCl",
-        "HNO3",
-        "H2SO4"
-      ],
-      "resposta": "H2SO4"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Em que ano ocorreu a queda do Muro de Berlim?",
+      "opcoes": ["1985", "1987", "1989", "1991"],
+      "resposta": "1989"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a teoria que afirma que o universo se expandiu a partir de um único ponto de alta densidade e temperatura?",
-      "opcoes": [
-        "Teoria da Relatividade",
-        "Teoria do Big Bang",
-        "Teoria da Gravidade",
-        "Teoria da Evolução"
-      ],
-      "resposta": "Teoria do Big Bang"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual oceano é o maior do planeta?",
+      "opcoes": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+      "resposta": "Pacífico"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um triângulo, onde 'b' é a base e 'h' é a altura?",
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem escreveu 'A Origem das Espécies'?",
       "opcoes": [
-        "A = b x h",
-        "A = (b x h) / 2",
-        "A = b + h",
-        "A = b²"
-      ],
-      "resposta": "A = (b x h) / 2"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do cientista que formulou a lei da gravidade universal?",
-      "opcoes": [
-        "Albert Einstein",
-        "Isaac Newton",
-        "Galileu Galilei",
-        "Stephen Hawking"
-      ],
-      "resposta": "Isaac Newton"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do dióxido de carbono?",
-      "opcoes": [
-        "H2O",
-        "O2",
-        "CO2",
-        "N2"
-      ],
-      "resposta": "CO2"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do processo em que a água muda do estado líquido para o gasoso?",
-      "opcoes": [
-        "Condensação",
-        "Evaporação",
-        "Sublimação",
-        "Solidificação"
-      ],
-      "resposta": "Evaporação"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o período histórico que se seguiu à Revolução Francesa?",
-      "opcoes": [
-        "Renascimento",
-        "Iluminismo",
-        "Idade Contemporânea",
-        "Idade Média"
-      ],
-      "resposta": "Idade Contemporânea"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do sal de cozinha?",
-      "opcoes": [
-        "NaCl",
-        "HCl",
-        "H2O",
-        "CO2"
-      ],
-      "resposta": "NaCl"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome da teoria que afirma que a vida se originou de organismos unicelulares?",
-      "opcoes": [
-        "Teoria da Geração Espontânea",
-        "Teoria do Criacionismo",
-        "Teoria da Evolução",
-        "Teoria do Big Bang"
-      ],
-      "resposta": "Teoria da Evolução"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um quadrado, onde 'l' é o lado?",
-      "opcoes": [
-        "A = l x 2",
-        "A = l³",
-        "A = l²",
-        "A = l x 4"
-      ],
-      "resposta": "A = l²"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do cientista que formulou a teoria da evolução?",
-      "opcoes": [
-        "Charles Darwin",
         "Gregor Mendel",
-        "Louis Pasteur",
-        "Isaac Newton"
+        "Isaac Newton",
+        "Charles Darwin",
+        "Galileu Galilei"
       ],
       "resposta": "Charles Darwin"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do hidróxido de sódio?",
-      "opcoes": [
-        "NaCl",
-        "HCl",
-        "NaOH",
-        "H2SO4"
-      ],
-      "resposta": "NaOH"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a capital do Canadá?",
+      "opcoes": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "resposta": "Ottawa"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do processo em que as rochas se quebram em pedaços menores?",
-      "opcoes": [
-        "Erosão",
-        "Intemperismo",
-        "Sedimentação",
-        "Metamorfismo"
-      ],
-      "resposta": "Intemperismo"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o elemento químico representado pelo símbolo 'Au'?",
+      "opcoes": ["Prata", "Ouro", "Cobre", "Alumínio"],
+      "resposta": "Ouro"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o período histórico que se seguiu à Guerra Fria?",
-      "opcoes": [
-        "Idade Contemporânea",
-        "Pós-Guerra Fria",
-        "Renascimento",
-        "Guerra Fria"
-      ],
-      "resposta": "Pós-Guerra Fria"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o continente com o maior número de países?",
+      "opcoes": ["África", "Ásia", "Europa", "América do Sul"],
+      "resposta": "África"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do ácido clorídrico?",
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem pintou a obra 'Guernica'?",
       "opcoes": [
-        "HCl",
-        "H2SO4",
-        "HNO3",
-        "NaOH"
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Claude Monet",
+        "Leonardo da Vinci"
       ],
-      "resposta": "HCl"
+      "resposta": "Pablo Picasso"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a teoria que afirma que a luz é composta de partículas?",
-      "opcoes": [
-        "Teoria da Relatividade",
-        "Teoria Corpuscular da Luz",
-        "Teoria Ondulatória da Luz",
-        "Teoria da Gravidade"
-      ],
-      "resposta": "Teoria Corpuscular da Luz"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a montanha mais alta do mundo?",
+      "opcoes": ["K2", "Everest", "Makalu", "Kilimanjaro"],
+      "resposta": "Everest"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um retângulo, onde 'b' é a base e 'h' é a altura?",
-      "opcoes": [
-        "A = b + h",
-        "A = b x h",
-        "A = 2(b + h)",
-        "A = b² + h²"
-      ],
-      "resposta": "A = b x h"
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual foi o primeiro país a legalizar o casamento entre pessoas do mesmo sexo?",
+      "opcoes": ["Canadá", "Países Baixos", "Espanha", "Noruega"],
+      "resposta": "Países Baixos"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do cientista que formulou a lei da conservação da energia?",
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem descobriu o Brasil em 1500?",
       "opcoes": [
-        "Albert Einstein",
-        "James Prescott Joule",
+        "Cristóvão Colombo",
+        "Vasco da Gama",
+        "Pedro Álvares Cabral",
+        "Fernão de Magalhães"
+      ],
+      "resposta": "Pedro Álvares Cabral"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual foi a primeira cidade a sediar os Jogos Olímpicos modernos em 1896?",
+      "opcoes": ["Paris", "Roma", "Atenas", "Londres"],
+      "resposta": "Atenas"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a capital da Austrália?",
+      "opcoes": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+      "resposta": "Canberra"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "opcoes": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "resposta": "George Washington"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o rio mais extenso do mundo?",
+      "opcoes": ["Nilo", "Amazonas", "Yangtzé", "Mississippi"],
+      "resposta": "Amazonas"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o cientista que formulou a Teoria da Relatividade?",
+      "opcoes": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Max Planck"],
+      "resposta": "Albert Einstein"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
+      "opcoes": ["África do Sul", "Alemanha", "Brasil", "Rússia"],
+      "resposta": "Brasil"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o idioma mais falado no mundo como língua materna?",
+      "opcoes": ["Inglês", "Espanhol", "Mandarim", "Hindi"],
+      "resposta": "Mandarim"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual país é conhecido como 'a terra do sol nascente'?",
+      "opcoes": ["China", "Japão", "Coreia do Sul", "Tailândia"],
+      "resposta": "Japão"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi a primeira mulher a ganhar um Prêmio Nobel?",
+      "opcoes": [
+        "Rosalind Franklin",
+        "Marie Curie",
+        "Ada Lovelace",
+        "Florence Nightingale"
+      ],
+      "resposta": "Marie Curie"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Em que ano ocorreu a Revolução Francesa?",
+      "opcoes": ["1776", "1789", "1812", "1830"],
+      "resposta": "1789"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a moeda oficial do Japão?",
+      "opcoes": ["Yuan", "Won", "Yen", "Baht"],
+      "resposta": "Yen"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual escritor britânico criou o personagem Sherlock Holmes?",
+      "opcoes": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Charles Dickens",
+        "J.R.R. Tolkien"
+      ],
+      "resposta": "Arthur Conan Doyle"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o deserto mais seco do mundo?",
+      "opcoes": ["Saara", "Kalahari", "Atacama", "Gobi"],
+      "resposta": "Atacama"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual país tem o formato de uma bota no mapa?",
+      "opcoes": ["Espanha", "Itália", "Grécia", "Turquia"],
+      "resposta": "Itália"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o animal símbolo da Austrália?",
+      "opcoes": ["Canguru", "Coala", "Emu", "Diabo-da-Tasmânia"],
+      "resposta": "Canguru"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o líder do movimento de independência da Índia?",
+      "opcoes": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Indira Gandhi"
+      ],
+      "resposta": "Mahatma Gandhi"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual planeta é conhecido como 'planeta vermelho'?",
+      "opcoes": ["Marte", "Vênus", "Júpiter", "Mercúrio"],
+      "resposta": "Marte"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o autor de 'Dom Quixote'?",
+      "opcoes": [
+        "Miguel de Cervantes",
+        "Gabriel García Márquez",
+        "Pablo Neruda",
+        "Jorge Luis Borges"
+      ],
+      "resposta": "Miguel de Cervantes"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual foi a primeira civilização a usar escrita cuneiforme?",
+      "opcoes": ["Egípcios", "Sumérios", "Babilônios", "Hititas"],
+      "resposta": "Sumérios"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem pintou a Mona Lisa?",
+      "opcoes": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "resposta": "Leonardo da Vinci"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual cidade é conhecida como 'a cidade eterna'?",
+      "opcoes": ["Atenas", "Roma", "Jerusalém", "Istambul"],
+      "resposta": "Roma"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual filósofo grego foi mestre de Alexandre, o Grande?",
+      "opcoes": ["Sócrates", "Platão", "Aristóteles", "Heródoto"],
+      "resposta": "Aristóteles"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o maior arquipélago do mundo?",
+      "opcoes": ["Filipinas", "Japão", "Indonésia", "Maldivas"],
+      "resposta": "Indonésia"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Em que ano o Brasil se tornou independente de Portugal?",
+      "opcoes": ["1808", "1822", "1889", "1891"],
+      "resposta": "1822"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o primeiro homem a orbitar a Terra?",
+      "opcoes": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Alan Shepard"
+      ],
+      "resposta": "Yuri Gagarin"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o maior deserto do mundo em extensão?",
+      "opcoes": ["Saara", "Atacama", "Antártica", "Gobi"],
+      "resposta": "Antártica"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o autor da obra 'A República'?",
+      "opcoes": ["Sócrates", "Platão", "Aristóteles", "Epicuro"],
+      "resposta": "Platão"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual país foi o primeiro a enviar um satélite artificial ao espaço?",
+      "opcoes": ["Estados Unidos", "União Soviética", "China", "Japão"],
+      "resposta": "União Soviética"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a moeda oficial do Reino Unido?",
+      "opcoes": ["Euro", "Libra Esterlina", "Dólar", "Franco"],
+      "resposta": "Libra Esterlina"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem escreveu 'A Divina Comédia'?",
+      "opcoes": [
+        "Dante Alighieri",
+        "Giovanni Boccaccio",
+        "Petrarca",
+        "Maquiavel"
+      ],
+      "resposta": "Dante Alighieri"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o maior lago de água doce do mundo em volume?",
+      "opcoes": [
+        "Lago Vitória",
+        "Lago Superior",
+        "Lago Baikal",
+        "Lago Tanganica"
+      ],
+      "resposta": "Lago Baikal"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual foi o primeiro país da América Latina a conquistar a independência?",
+      "opcoes": ["México", "Brasil", "Haiti", "Argentina"],
+      "resposta": "Haiti"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual civilização construiu Machu Picchu?",
+      "opcoes": ["Maias", "Astecas", "Incas", "Olmecas"],
+      "resposta": "Incas"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o cientista que formulou as leis do movimento e da gravitação universal?",
+      "opcoes": [
+        "Galileu Galilei",
         "Isaac Newton",
-        "Stephen Hawking"
+        "Albert Einstein",
+        "Johannes Kepler"
       ],
-      "resposta": "James Prescott Joule"
+      "resposta": "Isaac Newton"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do amônia?",
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a capital da Islândia?",
+      "opcoes": ["Oslo", "Reykjavik", "Helsinque", "Estocolmo"],
+      "resposta": "Reykjavik"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o responsável pela unificação da Alemanha em 1871?",
       "opcoes": [
-        "NH3",
-        "H2O",
-        "CO2",
-        "NaCl"
+        "Otto von Bismarck",
+        "Frederico II",
+        "Guilherme II",
+        "Karl Marx"
       ],
-      "resposta": "NH3"
+      "resposta": "Otto von Bismarck"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do processo em que a matéria muda do estado sólido para o líquido?",
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual país é famoso por suas pirâmides antigas?",
+      "opcoes": ["México", "Egito", "Peru", "China"],
+      "resposta": "Egito"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
       "opcoes": [
-        "Solidificação",
-        "Vaporização",
-        "Fusão",
-        "Sublimação"
+        "Forrest Gump",
+        "Pulp Fiction",
+        "O Resgate do Soldado Ryan",
+        "Clube da Luta"
       ],
-      "resposta": "Fusão"
+      "resposta": "Forrest Gump"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o período histórico que se seguiu à Idade Antiga?",
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem dirigiu o filme 'A Origem' (Inception)?",
       "opcoes": [
-        "Idade Média",
-        "Idade Moderna",
-        "Idade Contemporânea",
-        "Renascimento"
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "James Cameron"
       ],
-      "resposta": "Idade Média"
+      "resposta": "Christopher Nolan"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome da teoria que afirma que o espaço e o tempo são relativos?",
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'Breaking Bad', qual é o nome verdadeiro de Heisenberg?",
       "opcoes": [
-        "Teoria do Big Bang",
-        "Teoria da Relatividade",
-        "Teoria da Gravidade",
-        "Teoria da Evolução"
+        "Jesse Pinkman",
+        "Walter White",
+        "Saul Goodman",
+        "Hank Schrader"
       ],
-      "resposta": "Teoria da Relatividade"
+      "resposta": "Walter White"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um trapézio?",
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual foi o primeiro filme da Marvel Studios lançado oficialmente?",
       "opcoes": [
-        "A = ((B+b) x h) / 2",
-        "A = B x h",
-        "A = (B+b) x h",
-        "A = (B-b) x h / 2"
+        "Homem de Ferro",
+        "O Incrível Hulk",
+        "Capitão América",
+        "Thor"
       ],
-      "resposta": "A = ((B+b) x h) / 2"
+      "resposta": "Homem de Ferro"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do cientista que formulou a teoria da relatividade geral?",
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem interpretou Coringa em 'O Cavaleiro das Trevas' (2008)?",
+      "opcoes": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "resposta": "Heath Ledger"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série tem os personagens Ross, Rachel, Monica, Chandler, Joey e Phoebe?",
+      "opcoes": ["Friends", "How I Met Your Mother", "The Office", "Seinfeld"],
+      "resposta": "Friends"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'Game of Thrones', quem é a Mãe dos Dragões?",
+      "opcoes": [
+        "Cersei Lannister",
+        "Arya Stark",
+        "Sansa Stark",
+        "Daenerys Targaryen"
+      ],
+      "resposta": "Daenerys Targaryen"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme da Pixar tem como protagonistas dois robôs chamados Wall-E e Eve?",
+      "opcoes": ["Up", "Wall-E", "Toy Story", "Carros"],
+      "resposta": "Wall-E"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem dirigiu 'Titanic' (1997)?",
+      "opcoes": [
+        "James Cameron",
+        "Ridley Scott",
+        "Steven Spielberg",
+        "Ron Howard"
+      ],
+      "resposta": "James Cameron"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'Stranger Things', qual é o nome da personagem com poderes telecinéticos?",
+      "opcoes": ["Nancy", "Max", "Eleven", "Robin"],
+      "resposta": "Eleven"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme popularizou a frase 'Que a Força esteja com você'?",
+      "opcoes": ["Star Wars", "Star Trek", "O Senhor dos Anéis", "Matrix"],
+      "resposta": "Star Wars"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem interpretou Jack Sparrow em 'Piratas do Caribe'?",
+      "opcoes": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Hugh Jackman",
+        "Leonardo DiCaprio"
+      ],
+      "resposta": "Johnny Depp"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série da Netflix acompanha a vida de um cartel colombiano?",
+      "opcoes": ["Narcos", "La Casa de Papel", "Breaking Bad", "Ozark"],
+      "resposta": "Narcos"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme de terror é famoso pela frase 'Here’s Johnny!'?",
+      "opcoes": ["O Iluminado", "Halloween", "Pânico", "O Exorcista"],
+      "resposta": "O Iluminado"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual é o verdadeiro nome do personagem Wolverine?",
+      "opcoes": ["James Howlett", "Logan", "Victor Creed", "Charles Xavier"],
+      "resposta": "James Howlett"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série tem a música tema 'I'll Be There for You' da banda The Rembrandts?",
+      "opcoes": [
+        "Friends",
+        "How I Met Your Mother",
+        "That '70s Show",
+        "Scrubs"
+      ],
+      "resposta": "Friends"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual atriz interpretou Katniss Everdeen em 'Jogos Vorazes'?",
+      "opcoes": [
+        "Jennifer Lawrence",
+        "Emma Stone",
+        "Natalie Portman",
+        "Scarlett Johansson"
+      ],
+      "resposta": "Jennifer Lawrence"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem dirigiu 'O Senhor dos Anéis: A Sociedade do Anel'?",
+      "opcoes": [
+        "Peter Jackson",
+        "George Lucas",
+        "Guillermo del Toro",
+        "Francis Ford Coppola"
+      ],
+      "resposta": "Peter Jackson"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série mostra a história de sobreviventes em um apocalipse zumbi?",
+      "opcoes": [
+        "The Walking Dead",
+        "Fear the Walking Dead",
+        "Z Nation",
+        "Black Summer"
+      ],
+      "resposta": "The Walking Dead"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual foi o primeiro filme da saga Harry Potter?",
+      "opcoes": [
+        "A Câmara Secreta",
+        "A Pedra Filosofal",
+        "O Prisioneiro de Azkaban",
+        "O Cálice de Fogo"
+      ],
+      "resposta": "A Pedra Filosofal"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem interpretou o Coringa no filme de 2019?",
+      "opcoes": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "resposta": "Joaquin Phoenix"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme da Disney apresenta a música 'Let It Go'?",
+      "opcoes": ["Moana", "Frozen", "Encanto", "Valente"],
+      "resposta": "Frozen"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'O Senhor dos Anéis', quem destrói o Um Anel?",
+      "opcoes": ["Frodo", "Sam", "Gollum", "Aragorn"],
+      "resposta": "Gollum"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série da HBO acompanha a vida de mafiosos de Nova Jersey?",
+      "opcoes": [
+        "The Sopranos",
+        "Boardwalk Empire",
+        "Ray Donovan",
+        "Peaky Blinders"
+      ],
+      "resposta": "The Sopranos"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem é o protagonista da trilogia Matrix?",
+      "opcoes": ["Morpheus", "Neo", "Trinity", "Smith"],
+      "resposta": "Neo"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'La Casa de Papel', qual o nome do mentor do grupo?",
+      "opcoes": ["Berlim", "Professor", "Rio", "Lisboa"],
+      "resposta": "Professor"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual foi o primeiro filme de animação da Disney?",
+      "opcoes": [
+        "Bambi",
+        "Branca de Neve e os Sete Anões",
+        "Cinderela",
+        "Fantasia"
+      ],
+      "resposta": "Branca de Neve e os Sete Anões"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'Vingadores: Ultimato', quem segura o martelo de Thor além dele?",
+      "opcoes": ["Homem de Ferro", "Capitão América", "Hulk", "Thanos"],
+      "resposta": "Capitão América"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série tem os dragões Drogon, Rhaegal e Viserion?",
+      "opcoes": [
+        "The Witcher",
+        "Game of Thrones",
+        "Shadow and Bone",
+        "House of the Dragon"
+      ],
+      "resposta": "Game of Thrones"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem é o vilão principal de 'Os Vingadores' (2012)?",
+      "opcoes": ["Ultron", "Thanos", "Loki", "Hela"],
+      "resposta": "Loki"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme da Pixar mostra uma viagem pelas emoções de uma menina chamada Riley?",
+      "opcoes": ["Divertida Mente", "Up", "Procurando Nemo", "Soul"],
+      "resposta": "Divertida Mente"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual ator interpretou Wolverine por mais de 15 anos?",
+      "opcoes": [
+        "Tom Hardy",
+        "Hugh Jackman",
+        "Chris Hemsworth",
+        "Gerard Butler"
+      ],
+      "resposta": "Hugh Jackman"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'Star Wars', quem é o pai de Luke Skywalker?",
+      "opcoes": ["Yoda", "Obi-Wan Kenobi", "Anakin Skywalker", "Mace Windu"],
+      "resposta": "Anakin Skywalker"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série britânica mostra a vida da Rainha Elizabeth II?",
+      "opcoes": ["The Tudors", "The Crown", "Downton Abbey", "Victoria"],
+      "resposta": "The Crown"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual ator interpretou Tony Stark no Universo Cinematográfico da Marvel?",
+      "opcoes": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Mark Ruffalo",
+        "Tom Holland"
+      ],
+      "resposta": "Robert Downey Jr."
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme ficou famoso pela frase 'Eu vejo gente morta'?",
+      "opcoes": ["O Sexto Sentido", "O Chamado", "Os Outros", "Poltergeist"],
+      "resposta": "O Sexto Sentido"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série tem o professor Walter White e seu aluno Jesse Pinkman?",
+      "opcoes": ["Better Call Saul", "Breaking Bad", "Ozark", "Narcos"],
+      "resposta": "Breaking Bad"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem interpretou Gandalf em 'O Senhor dos Anéis'?",
+      "opcoes": [
+        "Christopher Lee",
+        "Ian McKellen",
+        "Richard Harris",
+        "Michael Gambon"
+      ],
+      "resposta": "Ian McKellen"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme brasileiro ganhou o prêmio de Melhor Filme Estrangeiro no Oscar?",
+      "opcoes": [
+        "Cidade de Deus",
+        "Central do Brasil",
+        "O Pagador de Promessas",
+        "Bacurau"
+      ],
+      "resposta": "O Pagador de Promessas"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme da Marvel introduziu o Pantera Negra?",
+      "opcoes": [
+        "Vingadores: Guerra Infinita",
+        "Capitão América: Guerra Civil",
+        "Pantera Negra",
+        "Thor: Ragnarok"
+      ],
+      "resposta": "Capitão América: Guerra Civil"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual é a profissão de Dexter na série 'Dexter'?",
+      "opcoes": ["Detetive", "Médico legista", "Advogado", "Policial"],
+      "resposta": "Médico legista"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Em 'The Office', quem é o chefe da filial de Scranton?",
+      "opcoes": [
+        "Jim Halpert",
+        "Michael Scott",
+        "Dwight Schrute",
+        "Stanley Hudson"
+      ],
+      "resposta": "Michael Scott"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Quem dirigiu 'Clube da Luta' (1999)?",
+      "opcoes": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Guy Ritchie",
+        "Ridley Scott"
+      ],
+      "resposta": "David Fincher"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série de fantasia é baseada nos livros de Andrzej Sapkowski?",
+      "opcoes": [
+        "The Witcher",
+        "Shadowhunters",
+        "Game of Thrones",
+        "His Dark Materials"
+      ],
+      "resposta": "The Witcher"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual é o nome do palhaço assassino criado por Stephen King?",
+      "opcoes": ["Pennywise", "Joker", "Twisty", "Art"],
+      "resposta": "Pennywise"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme de Quentin Tarantino mostra a cena icônica da dança de John Travolta e Uma Thurman?",
+      "opcoes": [
+        "Pulp Fiction",
+        "Kill Bill",
+        "Cães de Aluguel",
+        "Jackie Brown"
+      ],
+      "resposta": "Pulp Fiction"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série da Netflix é baseada em um jogo de xadrez?",
+      "opcoes": ["The Queen's Gambit", "Mindhunter", "You", "Dark"],
+      "resposta": "The Queen's Gambit"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu '1984'?",
+      "opcoes": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Franz Kafka"
+      ],
+      "resposta": "George Orwell"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual autor criou o detetive Sherlock Holmes?",
+      "opcoes": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "Charles Dickens"
+      ],
+      "resposta": "Arthur Conan Doyle"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'Dom Casmurro'?",
+      "opcoes": [
+        "José de Alencar",
+        "Machado de Assis",
+        "Graciliano Ramos",
+        "Lima Barreto"
+      ],
+      "resposta": "Machado de Assis"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é o livro mais vendido do mundo depois da Bíblia?",
+      "opcoes": [
+        "O Senhor dos Anéis",
+        "Dom Quixote",
+        "Harry Potter",
+        "O Pequeno Príncipe"
+      ],
+      "resposta": "Dom Quixote"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem é o autor da série 'As Crônicas de Nárnia'?",
+      "opcoes": [
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "George R.R. Martin",
+        "Philip Pullman"
+      ],
+      "resposta": "C.S. Lewis"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantor é conhecido como o 'Rei do Pop'?",
+      "opcoes": [
+        "Elvis Presley",
+        "Michael Jackson",
+        "Prince",
+        "Freddie Mercury"
+      ],
+      "resposta": "Michael Jackson"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda lançou o álbum 'Abbey Road'?",
+      "opcoes": [
+        "The Beatles",
+        "The Rolling Stones",
+        "Pink Floyd",
+        "Led Zeppelin"
+      ],
+      "resposta": "The Beatles"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Nome da Rosa'?",
+      "opcoes": [
+        "Italo Calvino",
+        "Umberto Eco",
+        "José Saramago",
+        "Gabriel García Márquez"
+      ],
+      "resposta": "Umberto Eco"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é o nome verdadeiro de Bob Dylan?",
+      "opcoes": [
+        "Robert Zimmerman",
+        "Paul Simon",
+        "David Bowie",
+        "Robert Plant"
+      ],
+      "resposta": "Robert Zimmerman"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é o título do primeiro livro da saga Harry Potter?",
+      "opcoes": [
+        "A Câmara Secreta",
+        "A Pedra Filosofal",
+        "O Prisioneiro de Azkaban",
+        "O Cálice de Fogo"
+      ],
+      "resposta": "A Pedra Filosofal"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é a ópera mais famosa de Giuseppe Verdi?",
+      "opcoes": ["Aida", "La Traviata", "Rigoletto", "Otello"],
+      "resposta": "La Traviata"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem é o autor de 'O Senhor dos Anéis'?",
+      "opcoes": [
+        "J.K. Rowling",
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "George R.R. Martin"
+      ],
+      "resposta": "J.R.R. Tolkien"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantor brasileiro é conhecido como o 'Rei'?",
+      "opcoes": [
+        "Chico Buarque",
+        "Roberto Carlos",
+        "Caetano Veloso",
+        "Gilberto Gil"
+      ],
+      "resposta": "Roberto Carlos"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Pequeno Príncipe'?",
+      "opcoes": [
+        "Antoine de Saint-Exupéry",
+        "Victor Hugo",
+        "Marcel Proust",
+        "Albert Camus"
+      ],
+      "resposta": "Antoine de Saint-Exupéry"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda lançou o álbum 'The Dark Side of the Moon'?",
+      "opcoes": ["Pink Floyd", "The Who", "Queen", "Genesis"],
+      "resposta": "Pink Floyd"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual autor português ganhou o Prêmio Nobel de Literatura em 1998?",
+      "opcoes": [
+        "Fernando Pessoa",
+        "Eça de Queiroz",
+        "José Saramago",
+        "Camilo Castelo Branco"
+      ],
+      "resposta": "José Saramago"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é o nome da vocalista da banda Paramore?",
+      "opcoes": [
+        "Avril Lavigne",
+        "Hayley Williams",
+        "Amy Lee",
+        "Florence Welch"
+      ],
+      "resposta": "Hayley Williams"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'Grande Sertão: Veredas'?",
+      "opcoes": [
+        "Manuel Bandeira",
+        "Carlos Drummond de Andrade",
+        "João Guimarães Rosa",
+        "Graciliano Ramos"
+      ],
+      "resposta": "João Guimarães Rosa"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantor é conhecido como o 'Rei do Rock'?",
+      "opcoes": [
+        "Chuck Berry",
+        "Little Richard",
+        "Elvis Presley",
+        "Buddy Holly"
+      ],
+      "resposta": "Elvis Presley"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é o título do famoso romance de Jane Austen publicado em 1813?",
+      "opcoes": [
+        "Razão e Sensibilidade",
+        "Orgulho e Preconceito",
+        "Emma",
+        "Mansfield Park"
+      ],
+      "resposta": "Orgulho e Preconceito"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda gravou a música 'Bohemian Rhapsody'?",
+      "opcoes": ["Queen", "The Beatles", "The Doors", "Led Zeppelin"],
+      "resposta": "Queen"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'Cem Anos de Solidão'?",
+      "opcoes": [
+        "Mario Vargas Llosa",
+        "Pablo Neruda",
+        "Gabriel García Márquez",
+        "Isabel Allende"
+      ],
+      "resposta": "Gabriel García Márquez"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantora lançou o álbum 'Lemonade'?",
+      "opcoes": ["Rihanna", "Adele", "Beyoncé", "Taylor Swift"],
+      "resposta": "Beyoncé"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é o título do livro clássico de Mary Shelley?",
+      "opcoes": [
+        "Drácula",
+        "Frankenstein",
+        "O Médico e o Monstro",
+        "A Máquina do Tempo"
+      ],
+      "resposta": "Frankenstein"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem é considerado o 'Pai do Samba' no Brasil?",
+      "opcoes": ["Cartola", "Noel Rosa", "Pixinguinha", "Donga"],
+      "resposta": "Donga"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Morro dos Ventos Uivantes'?",
+      "opcoes": [
+        "Emily Brontë",
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Mary Shelley"
+      ],
+      "resposta": "Emily Brontë"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantor lançou o álbum 'Thriller'?",
+      "opcoes": ["Prince", "Michael Jackson", "Madonna", "David Bowie"],
+      "resposta": "Michael Jackson"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Hobbit'?",
+      "opcoes": [
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "Philip Pullman"
+      ],
+      "resposta": "J.R.R. Tolkien"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda lançou a música 'Stairway to Heaven'?",
+      "opcoes": ["Led Zeppelin", "Pink Floyd", "Queen", "The Rolling Stones"],
+      "resposta": "Led Zeppelin"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Apanhador no Campo de Centeio'?",
+      "opcoes": [
+        "J.D. Salinger",
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "Mark Twain"
+      ],
+      "resposta": "J.D. Salinger"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantora lançou o álbum '1989'?",
+      "opcoes": ["Katy Perry", "Taylor Swift", "Adele", "Beyoncé"],
+      "resposta": "Taylor Swift"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem é o autor da saga 'As Crônicas de Gelo e Fogo'?",
+      "opcoes": [
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "George R.R. Martin",
+        "Patrick Rothfuss"
+      ],
+      "resposta": "George R.R. Martin"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda lançou 'Hotel California'?",
+      "opcoes": ["The Eagles", "The Doors", "Fleetwood Mac", "AC/DC"],
+      "resposta": "The Eagles"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Grande Gatsby'?",
+      "opcoes": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "William Faulkner"
+      ],
+      "resposta": "F. Scott Fitzgerald"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual é o verdadeiro nome da cantora Lady Gaga?",
+      "opcoes": [
+        "Stefani Germanotta",
+        "Robyn Fenty",
+        "Alicia Moore",
+        "Katheryn Hudson"
+      ],
+      "resposta": "Stefani Germanotta"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'Coração das Trevas'?",
+      "opcoes": [
+        "Joseph Conrad",
+        "Herman Melville",
+        "Victor Hugo",
+        "Charles Dickens"
+      ],
+      "resposta": "Joseph Conrad"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda britânica lançou o álbum 'A Night at the Opera'?",
+      "opcoes": ["Queen", "The Beatles", "The Rolling Stones", "Pink Floyd"],
+      "resposta": "Queen"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Alquimista'?",
+      "opcoes": [
+        "Paulo Coelho",
+        "Jorge Amado",
+        "Machado de Assis",
+        "Clarice Lispector"
+      ],
+      "resposta": "Paulo Coelho"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantor lançou a música 'Shape of You'?",
+      "opcoes": ["Shawn Mendes", "Ed Sheeran", "Justin Bieber", "Sam Smith"],
+      "resposta": "Ed Sheeran"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Senhor das Moscas'?",
+      "opcoes": [
+        "William Golding",
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury"
+      ],
+      "resposta": "William Golding"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda lançou 'Back in Black'?",
+      "opcoes": ["AC/DC", "Metallica", "Led Zeppelin", "Guns N' Roses"],
+      "resposta": "AC/DC"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'Crime e Castigo'?",
+      "opcoes": [
+        "Fiódor Dostoiévski",
+        "Leo Tolstói",
+        "Anton Tchekhov",
+        "Nikolai Gógol"
+      ],
+      "resposta": "Fiódor Dostoiévski"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantora lançou o álbum '21'?",
+      "opcoes": ["Adele", "Beyoncé", "Rihanna", "Taylor Swift"],
+      "resposta": "Adele"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'Moby Dick'?",
+      "opcoes": [
+        "Herman Melville",
+        "Joseph Conrad",
+        "Charles Dickens",
+        "Mark Twain"
+      ],
+      "resposta": "Herman Melville"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda lançou 'Sgt. Pepper's Lonely Hearts Club Band'?",
+      "opcoes": ["The Beatles", "The Rolling Stones", "The Who", "Pink Floyd"],
+      "resposta": "The Beatles"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Retrato de Dorian Gray'?",
+      "opcoes": [
+        "Oscar Wilde",
+        "Edgar Allan Poe",
+        "Mary Shelley",
+        "Bram Stoker"
+      ],
+      "resposta": "Oscar Wilde"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantor lançou 'Rolling in the Deep'?",
+      "opcoes": ["Adele", "Beyoncé", "Rihanna", "Lady Gaga"],
+      "resposta": "Adele"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Hobbit'?",
+      "opcoes": [
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "Philip Pullman"
+      ],
+      "resposta": "J.R.R. Tolkien"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantor brasileiro lançou o álbum 'Acústico MTV' em 1992?",
+      "opcoes": ["Legião Urbana", "Barão Vermelho", "Titãs", "Cazuza"],
+      "resposta": "Legião Urbana"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Quem escreveu 'O Processo'?",
+      "opcoes": [
+        "Franz Kafka",
+        "Albert Camus",
+        "Victor Hugo",
+        "Fyodor Dostoiévski"
+      ],
+      "resposta": "Franz Kafka"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a capital da França?",
+      "opcoes": ["Berlim", "Madrid", "Paris", "Lisboa"],
+      "resposta": "Paris"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a fórmula química da água?",
+      "opcoes": ["H2O", "CO2", "O2", "NaCl"],
+      "resposta": "H2O"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "opcoes": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "resposta": "George Washington"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o maior planeta do sistema solar?",
+      "opcoes": ["Saturno", "Júpiter", "Marte", "Terra"],
+      "resposta": "Júpiter"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o processo pelo qual as plantas produzem alimento?",
+      "opcoes": ["Respiração", "Fotossíntese", "Transpiração", "Fermentação"],
+      "resposta": "Fotossíntese"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a raiz quadrada de 144?",
+      "opcoes": ["10", "11", "12", "14"],
+      "resposta": "12"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem formulou as leis do movimento e da gravitação universal?",
+      "opcoes": [
+        "Galileu Galilei",
+        "Albert Einstein",
+        "Isaac Newton",
+        "Nicolau Copérnico"
+      ],
+      "resposta": "Isaac Newton"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o símbolo químico do ouro?",
+      "opcoes": ["Au", "Ag", "O", "Fe"],
+      "resposta": "Au"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a língua oficial do Brasil?",
+      "opcoes": ["Espanhol", "Inglês", "Português", "Francês"],
+      "resposta": "Português"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o ponto mais alto da Terra?",
+      "opcoes": ["Monte Everest", "K2", "Mont Blanc", "Denali"],
+      "resposta": "Monte Everest"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual cientista é conhecido por desenvolver a teoria da relatividade?",
       "opcoes": [
         "Isaac Newton",
-        "Stephen Hawking",
         "Albert Einstein",
+        "Niels Bohr",
         "Galileu Galilei"
       ],
       "resposta": "Albert Einstein"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do ácido fosfórico?",
-      "opcoes": [
-        "H3PO4",
-        "H2SO4",
-        "HNO3",
-        "HCl"
-      ],
-      "resposta": "H3PO4"
+      "categoria": "Estudo",
+      "pergunta": "Qual é a capital do Japão?",
+      "opcoes": ["Tóquio", "Pequim", "Seul", "Bangkok"],
+      "resposta": "Tóquio"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do processo em que a matéria muda do estado gasoso para o líquido?",
-      "opcoes": [
-        "Vaporização",
-        "Condensação",
-        "Solidificação",
-        "Fusão"
-      ],
-      "resposta": "Condensação"
+      "categoria": "Estudo",
+      "pergunta": "Quantos estados existem no Brasil?",
+      "opcoes": ["26", "27", "25", "24"],
+      "resposta": "26"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o período histórico que se seguiu à Revolução Industrial?",
-      "opcoes": [
-        "Idade Média",
-        "Renascimento",
-        "Idade Moderna",
-        "Idade Contemporânea"
-      ],
-      "resposta": "Idade Moderna"
+      "categoria": "Estudo",
+      "pergunta": "Quem é considerado o pai da psicanálise?",
+      "opcoes": ["Carl Jung", "Sigmund Freud", "Ivan Pavlov", "Alfred Adler"],
+      "resposta": "Sigmund Freud"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do ácido carbônico?",
+      "categoria": "Estudo",
+      "pergunta": "Qual é a principal função dos glóbulos vermelhos no sangue?",
       "opcoes": [
-        "H2CO3",
-        "H2SO4",
-        "HNO3",
-        "HCl"
+        "Defender o corpo",
+        "Transportar oxigênio",
+        "Coagular sangue",
+        "Produzir hormônios"
       ],
-      "resposta": "H2CO3"
+      "resposta": "Transportar oxigênio"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a teoria que afirma que o universo está em constante mudança?",
-      "opcoes": [
-        "Teoria do Big Bang",
-        "Teoria da Gravidade",
-        "Teoria do Estado Estacionário",
-        "Teoria da Relatividade"
-      ],
-      "resposta": "Teoria do Estado Estacionário"
+      "categoria": "Estudo",
+      "pergunta": "Em que continente fica o Egito?",
+      "opcoes": ["África", "Ásia", "Europa", "América"],
+      "resposta": "África"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um losango?",
-      "opcoes": [
-        "A = (D x d) / 2",
-        "A = D x d",
-        "A = (D + d) / 2",
-        "A = 4 x D"
-      ],
-      "resposta": "A = (D x d) / 2"
+      "categoria": "Estudo",
+      "pergunta": "Qual é a unidade básica da vida?",
+      "opcoes": ["Célula", "Molécula", "Átomo", "Órgão"],
+      "resposta": "Célula"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do cientista que formulou a lei da termodinâmica?",
+      "categoria": "Estudo",
+      "pergunta": "Quem pintou a Capela Sistina?",
+      "opcoes": ["Leonardo da Vinci", "Michelangelo", "Rafael", "Donatello"],
+      "resposta": "Michelangelo"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o símbolo químico do ferro?",
+      "opcoes": ["Fe", "F", "Ir", "I"],
+      "resposta": "Fe"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o maior órgão do corpo humano?",
+      "opcoes": ["Fígado", "Coração", "Pele", "Pulmão"],
+      "resposta": "Pele"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem descobriu a penicilina?",
       "opcoes": [
-        "James Prescott Joule",
-        "Nicolas Carnot",
-        "Isaac Newton",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Marie Curie",
+        "Gregor Mendel"
+      ],
+      "resposta": "Alexander Fleming"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o país mais populoso do mundo?",
+      "opcoes": ["Índia", "Estados Unidos", "China", "Rússia"],
+      "resposta": "China"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a capital da Alemanha?",
+      "opcoes": ["Berlim", "Munique", "Hamburgo", "Frankfurt"],
+      "resposta": "Berlim"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o processo de transformação de líquido em gás?",
+      "opcoes": ["Condensação", "Evaporação", "Sublimação", "Fusão"],
+      "resposta": "Evaporação"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem escreveu 'A Revolução dos Bichos'?",
+      "opcoes": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Fiódor Dostoiévski"
+      ],
+      "resposta": "George Orwell"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o elemento químico representado pelo símbolo 'Na'?",
+      "opcoes": ["Nitrogênio", "Sódio", "Níquel", "Neônio"],
+      "resposta": "Sódio"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem foi o responsável pela teoria da evolução das espécies?",
+      "opcoes": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Louis Pasteur",
         "Albert Einstein"
       ],
-      "resposta": "Nicolas Carnot"
+      "resposta": "Charles Darwin"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do gás hidrogênio?",
+      "categoria": "Estudo",
+      "pergunta": "Qual é a unidade de medida de intensidade elétrica?",
+      "opcoes": ["Volt", "Ampere", "Ohm", "Watt"],
+      "resposta": "Ampere"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a fórmula do ácido sulfúrico?",
+      "opcoes": ["H2SO4", "HCl", "NaOH", "HNO3"],
+      "resposta": "H2SO4"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o maior oceano do mundo?",
+      "opcoes": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+      "resposta": "Pacífico"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem escreveu 'Macbeth'?",
       "opcoes": [
-        "H2",
-        "O2",
-        "N2",
-        "CH4"
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
       ],
-      "resposta": "H2"
+      "resposta": "William Shakespeare"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do processo em que a matéria muda do estado líquido para o sólido?",
+      "categoria": "Estudo",
+      "pergunta": "Qual planeta é conhecido como Planeta Vermelho?",
+      "opcoes": ["Mercúrio", "Marte", "Vênus", "Saturno"],
+      "resposta": "Marte"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o processo de divisão celular que gera gametas?",
+      "opcoes": ["Mitose", "Meiose", "Fissão Binária", "Duplicação"],
+      "resposta": "Meiose"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem é conhecido como o 'Pai da Matemática'?",
+      "opcoes": ["Pitágoras", "Euclides", "Arquimedes", "Isaac Newton"],
+      "resposta": "Euclides"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual gás é essencial para a respiração humana?",
+      "opcoes": ["Dióxido de carbono", "Oxigênio", "Nitrogênio", "Hélio"],
+      "resposta": "Oxigênio"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a capital da Itália?",
+      "opcoes": ["Roma", "Milão", "Florença", "Veneza"],
+      "resposta": "Roma"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem é o autor de 'O Príncipe'?",
       "opcoes": [
-        "Fusão",
-        "Solidificação",
-        "Condensação",
-        "Vaporização"
+        "Maquiavel",
+        "Tomás de Aquino",
+        "Voltaire",
+        "Jean-Jacques Rousseau"
       ],
-      "resposta": "Solidificação"
+      "resposta": "Maquiavel"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o período histórico que se seguiu à Primeira Guerra Mundial?",
+      "categoria": "Estudo",
+      "pergunta": "Qual é a fórmula do sal de cozinha?",
+      "opcoes": ["NaCl", "KCl", "CaCO3", "MgSO4"],
+      "resposta": "NaCl"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem foi o líder da independência do Brasil?",
       "opcoes": [
-        "Idade Moderna",
-        "Pós-Primeira Guerra",
-        "Grande Depressão",
-        "Segunda Guerra Mundial"
+        "Dom Pedro I",
+        "José Bonifácio",
+        "Getúlio Vargas",
+        "Dom Pedro II"
       ],
-      "resposta": "Pós-Primeira Guerra"
+      "resposta": "Dom Pedro I"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do gás oxigênio?",
+      "categoria": "Estudo",
+      "pergunta": "Qual é o maior bioma do Brasil?",
+      "opcoes": ["Caatinga", "Amazônia", "Pantanal", "Cerrado"],
+      "resposta": "Amazônia"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a capital da Austrália?",
+      "opcoes": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "resposta": "Canberra"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem desenvolveu a tabela periódica dos elementos?",
       "opcoes": [
-        "O3",
-        "O2",
-        "H2O",
-        "CO2"
+        "Dmitri Mendeleev",
+        "Marie Curie",
+        "John Dalton",
+        "Henry Cavendish"
       ],
-      "resposta": "O2"
+      "resposta": "Dmitri Mendeleev"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome da teoria que afirma que o universo é um multiverso?",
+      "categoria": "Estudo",
+      "pergunta": "Qual é o triângulo que possui todos os lados diferentes?",
+      "opcoes": ["Equilátero", "Isósceles", "Escaleno", "Retângulo"],
+      "resposta": "Escaleno"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem pintou 'A Última Ceia'?",
+      "opcoes": ["Leonardo da Vinci", "Michelangelo", "Rafael", "Donatello"],
+      "resposta": "Leonardo da Vinci"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o maior país da América do Sul em área?",
+      "opcoes": ["Argentina", "Brasil", "Chile", "Peru"],
+      "resposta": "Brasil"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é a principal função dos rins no corpo humano?",
       "opcoes": [
-        "Teoria da Relatividade",
-        "Teoria das Cordas",
-        "Teoria do Big Bang",
-        "Teoria do Multiverso"
+        "Filtrar sangue",
+        "Produzir hormônios",
+        "Transportar oxigênio",
+        "Controlar temperatura"
       ],
-      "resposta": "Teoria do Multiverso"
+      "resposta": "Filtrar sangue"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um círculo?",
+      "categoria": "Estudo",
+      "pergunta": "Quem descobriu a América em 1492?",
       "opcoes": [
-        "A = πr²",
-        "A = 2πr",
-        "A = πr",
-        "A = 2πr²"
+        "Cristóvão Colombo",
+        "Vasco da Gama",
+        "Pedro Álvares Cabral",
+        "Fernão de Magalhães"
       ],
-      "resposta": "A = πr²"
+      "resposta": "Cristóvão Colombo"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do cientista que formulou a teoria do caos?",
+      "categoria": "Estudo",
+      "pergunta": "Qual é o símbolo químico do oxigênio?",
+      "opcoes": ["O", "Ox", "Ox2", "Oz"],
+      "resposta": "O"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual é o resultado de 15 x 12?",
+      "opcoes": ["170", "180", "175", "160"],
+      "resposta": "180"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Quem foi o cientista que propôs a lei da gravitação universal?",
       "opcoes": [
-        "Edward Norton Lorenz",
+        "Galileu Galilei",
         "Isaac Newton",
         "Albert Einstein",
-        "Stephen Hawking"
+        "Johannes Kepler"
       ],
-      "resposta": "Edward Norton Lorenz"
+      "resposta": "Isaac Newton"
     },
     {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do gás nitrogênio?",
-      "opcoes": [
-        "N",
-        "N2",
-        "NH3",
-        "NO2"
-      ],
-      "resposta": "N2"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome do processo em que a matéria muda do estado sólido para o gasoso?",
-      "opcoes": [
-        "Fusão",
-        "Vaporização",
-        "Sublimação",
-        "Condensação"
-      ],
-      "resposta": "Sublimação"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o período histórico que se seguiu à Guerra do Vietnã?",
-      "opcoes": [
-        "Idade Moderna",
-        "Guerra Fria",
-        "Pós-Guerra Fria",
-        "Guerra do Vietnã"
-      ],
-      "resposta": "Pós-Guerra Fria"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula química do gás cloro?",
-      "opcoes": [
-        "Cl",
-        "Cl2",
-        "HCl",
-        "NaCl"
-      ],
-      "resposta": "Cl2"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual a teoria que afirma que o universo é um holograma?",
-      "opcoes": [
-        "Teoria da Relatividade",
-        "Teoria das Cordas",
-        "Princípio Holográfico",
-        "Teoria do Big Bang"
-      ],
-      "resposta": "Princípio Holográfico"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual a fórmula para calcular a área de um triângulo equilátero?",
-      "opcoes": [
-        "A = (l²√3) / 4",
-        "A = l x h",
-        "A = (l x h) / 2",
-        "A = l²"
-      ],
-      "resposta": "A = (l²√3) / 4"
-    },
-    {
-      "categoria": "Estudos",
-      "pergunta": "Qual o nome da teoria que explica como a vida surgiu a partir de moléculas orgânicas em condições primitivas?",
-      "opcoes": [
-        "Teoria da Panspermia",
-        "Teoria da Geração Espontânea",
-        "Teoria da Biogênese",
-        "Teoria da Abiogênese"
-      ],
-      "resposta": "Teoria da Abiogênese"
+      "categoria": "Estudo",
+      "pergunta": "Qual país é conhecido como o 'berço da democracia'?",
+      "opcoes": ["Roma", "Grécia", "Egito", "Inglaterra"],
+      "resposta": "Grécia"
     }
   ]
 }
-] }
