@@ -14,5 +14,26 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    
+    <!-- Proteção contra erros de extensões -->
+    <script>
+      // Captura erros de extensões e os ignora
+      window.addEventListener('error', function(e) {
+        if (e.filename && e.filename.includes('contentScript.js')) {
+          e.preventDefault();
+          console.warn('Erro de extensão ignorado:', e.message);
+          return false;
+        }
+      });
+      
+      // Proteção adicional para erros não capturados
+      window.addEventListener('unhandledrejection', function(e) {
+        if (e.reason && e.reason.stack && e.reason.stack.includes('contentScript.js')) {
+          e.preventDefault();
+          console.warn('Promise rejeitada de extensão ignorada:', e.reason);
+          return false;
+        }
+      });
+    </script>
   </body>
 </html>
