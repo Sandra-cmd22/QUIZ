@@ -1,139 +1,108 @@
-# Quiz Temático PWA
+# 🎯 Quiz Interativo
 
-Um aplicativo de quiz progressivo (PWA) desenvolvido em React com Tailwind CSS, totalmente offline e responsivo para mobile.
+Um aplicativo de quiz moderno e interativo construído com React, Vite e Tailwind CSS.
 
-## 🎨 Características
+## ✨ Características
 
-- **PWA Completo** - Funciona offline, instalável no dispositivo
-- **React + Vite** - Desenvolvimento moderno e rápido
-- **Tailwind CSS** - Design responsivo e moderno
-- **100% Offline** - Sem necessidade de backend ou API
-- **Mobile First** - Otimizado para dispositivos móveis
+- **Interface moderna** com design responsivo
+- **Animações suaves** para uma experiência envolvente
+- **Categorias temáticas** para diferentes tipos de perguntas
+- **Feedback visual** imediato nas respostas
+- **Tela de resultados** com pontuação e estatísticas
+- **Design minimalista** com cores vibrantes
 
-## 📱 Telas
+## 🚀 Tecnologias Utilizadas
 
-1. **Tela de Início** - Nome do app "Quiz Temático" com botão "Começar"
-2. **Tela de Categorias** - Seleção de temas disponíveis
-3. **Tela de Quiz** - Perguntas com 4 opções cada
-4. **Tela de Resultados** - Pontuação final e estatísticas
+- **React** - Biblioteca JavaScript para interfaces de usuário
+- **Vite** - Build tool rápido e moderno
+- **Tailwind CSS** - Framework CSS utilitário
+- **JavaScript (ES6+)** - Linguagem de programação
 
-## 🎯 Funcionalidades
+## 🎮 Como Jogar
 
-- ✅ Shuffle de perguntas e alternativas
-- ✅ Salvar pontuação no LocalStorage
-- ✅ Design baseado nas imagens fornecidas
-- ✅ Animações suaves e feedback visual
-- ✅ Totalmente responsivo
-- ✅ PWA instalável
+1. **Inicie o quiz** clicando no botão "INICIAR"
+2. **Escolha uma categoria** de perguntas
+3. **Responda as perguntas** selecionando a alternativa correta
+4. **Veja seus resultados** ao final do quiz
 
-## 🛠️ Tecnologias
+## 📱 Categorias Disponíveis
 
-- **React 18** - Biblioteca de interface
-- **Vite** - Build tool e dev server
-- **Tailwind CSS** - Framework CSS
-- **PWA Plugin** - Service Worker e Manifest
-- **JavaScript ES6+** - Lógica da aplicação
+- 🎓 **Conhecimentos Gerais** - Perguntas sobre diversos temas
+- 🎬 **Filmes e Séries** - Entretenimento e cultura pop
+- 📚 **Livros e Músicas** - Literatura e música
+- 📖 **Estudo** - Conhecimentos acadêmicos
 
-## 🚀 Como Executar
+## 🛠️ Instalação e Execução
 
-### Instalação
-```bash
-npm install
-```
+### Pré-requisitos
+- Node.js (versão 16 ou superior)
+- npm ou yarn
 
-### Desenvolvimento
-```bash
-npm run dev
-```
+### Passos para execução
 
-### Build para Produção
-```bash
-npm run build
-```
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/seu-usuario/quiz-app.git
+   cd quiz-app
+   ```
 
-### Preview do Build
-```bash
-npm run preview
-```
+2. **Instale as dependências**
+   ```bash
+   npm install
+   ```
 
-## 📱 URLs de Acesso
+3. **Execute o projeto**
+   ```bash
+   npm run dev
+   ```
 
-- **Local:** `http://localhost:8080`
-- **Rede:** `http://SEU_IP:8080`
+4. **Acesse no navegador**
+   ```
+   http://localhost:5173
+   ```
 
 ## 📁 Estrutura do Projeto
 
 ```
-quiz-tematico-pwa/
-├── src/
-│   ├── components/
-│   │   ├── StartScreen.jsx
-│   │   ├── CategoriesScreen.jsx
-│   │   ├── QuizScreen.jsx
-│   │   ├── ResultsScreen.jsx
-│   │   └── CornerDecorations.jsx
-│   ├── data/
-│   │   └── questions.json
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── public/
-│   └── vite.svg
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-└── README.md
+src/
+├── components/          # Componentes React
+│   ├── StartScreen.jsx      # Tela inicial
+│   ├── CategoriesScreen.jsx # Seleção de categorias
+│   ├── QuizScreen.jsx       # Tela do quiz
+│   ├── ResultsScreen.jsx    # Tela de resultados
+│   └── CornerDecorations.jsx # Decorações visuais
+├── data/
+│   └── questions.json       # Banco de perguntas
+├── App.jsx              # Componente principal
+├── main.jsx             # Ponto de entrada
+└── index.css            # Estilos globais
 ```
 
 ## 🎨 Design
 
-O design foi baseado nas imagens fornecidas:
-- Formas geométricas coloridas nos cantos
-- Fonte Nerko One para títulos
-- Cores vibrantes (rosa, laranja, amarelo, azul)
-- Layout mobile-first responsivo
+O aplicativo utiliza um design moderno com:
+- **Cores vibrantes** (rosa, azul, laranja, amarelo)
+- **Fonte personalizada** (Nerko One)
+- **Animações CSS** para transições suaves
+- **Layout responsivo** para diferentes dispositivos
+- **Elementos visuais** decorativos nos cantos
 
-## 📊 JSON de Perguntas
+## 📄 Licença
 
-O arquivo `src/data/questions.json` contém todas as perguntas organizadas por categoria. Você pode facilmente:
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+- Reportar bugs
+- Sugerir novas funcionalidades
+- Enviar pull requests
 - Adicionar novas perguntas
-- Modificar categorias existentes
-- Alterar opções e respostas
 
-## 🔧 Customização
+## 👨‍💻 Autor
 
-### Adicionar Perguntas
-Edite o arquivo `src/data/questions.json`:
-
-```json
-{
-  "categoria": "Nova Categoria",
-  "pergunta": "Sua pergunta aqui?",
-  "opcoes": ["Opção 1", "Opção 2", "Opção 3", "Opção 4"],
-  "resposta": "Opção 1"
-}
-```
-
-### Alterar Cores
-Modifique `tailwind.config.js` para personalizar as cores.
-
-## 📱 PWA
-
-O app é um PWA completo com:
-- Manifest.json configurado
-- Service Worker para cache offline
-- Ícones para diferentes tamanhos
-- Instalável no dispositivo móvel
-
-## 🚀 Deploy
-
-Pronto para deploy na Vercel, Netlify ou qualquer plataforma estática:
-
-```bash
-npm run build
-# Upload da pasta dist/
-```
+Desenvolvido com ❤️ para proporcionar uma experiência de aprendizado divertida e interativa.
 
 ---
 
-**Desenvolvido com ❤️ usando React + Tailwind CSS**
+**Divirta-se jogando! 🎉**
