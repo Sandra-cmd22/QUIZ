@@ -1,4 +1,4 @@
-{ "perguntas": [
+[
   {
     "categoria": "Conhecimentos gerais",
     "pergunta": "Qual o maior país do mundo em área?",
@@ -1434,4 +1434,4 @@
     }
   ]
 }
-] }
+]
