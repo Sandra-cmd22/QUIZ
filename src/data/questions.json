@@ -1,8 +1,8 @@
 {
   "perguntas": [
     {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual filósofo grego foi condenado à morte por impiedade e corrupção da juventude, e morreu bebendo cicuta?",
+      "categoria": "Estudo",
+      "pergunta": "Qual filósofo grego foi condenado à morte por impiedade?",
       "opcoes": [
         "Platão",
         "Aristóteles",
@@ -12,8 +12,8 @@
       "resposta": "Sócrates"
     },
     {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual tratado de paz, assinado em 1919, encerrou oficialmente a Primeira Guerra Mundial e impôs pesadas sanções à Alemanha?",
+      "categoria": "Estudo",
+      "pergunta": "Qual tratado encerrou a Primeira Guerra Mundial?",
       "opcoes": [
         "Tratado de Versalhes",
         "Tratado de Tordesilhas",
@@ -23,8 +23,8 @@
       "resposta": "Tratado de Versalhes"
     },
     {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "A obra 'O Grito', de Edvard Munch, é considerada um ícone de qual movimento artístico?",
+      "categoria": "Estudo",
+      "pergunta": "A obra O Grito é de qual movimento artístico?",
       "opcoes": [
         "Cubismo",
         "Impressionismo",
@@ -34,7 +34,7 @@
       "resposta": "Expressionismo"
     },
     {
-      "categoria": "Conhecimentos gerais",
+      "categoria": "Estudo",
       "pergunta": "Em qual ano foi construído o Muro de Berlim?",
       "opcoes": [
         "1949",
@@ -50,505 +50,175 @@
       "opcoes": [
         "Toronto",
         "Vancouver",
-        "Ottawa",
-        "Montreal"
+        "Montreal",
+        "Ottawa"
       ],
       "resposta": "Ottawa"
     },
     {
       "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o primeiro explorador a circum-navegar a Terra, embora tenha morrido durante a expedição nas Filipinas?",
-      "opcoes": [
-        "Cristóvão Colombo",
-        "Vasco da Gama",
-        "Fernão de Magalhães",
-        "James Cook"
-      ],
-      "resposta": "Fernão de Magalhães"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é a fórmula química da água?",
-      "opcoes": [
-        "CO2",
-        "NaCl",
-        "H2O",
-        "O2"
-      ],
-      "resposta": "H2O"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "O que é o 'efeito Mandela'?",
-      "opcoes": [
-        "Um fenômeno meteorológico raro",
-        "Uma teoria da conspiração",
-        "A crença coletiva em uma memória falsa",
-        "Um conceito de física quântica"
-      ],
-      "resposta": "A crença coletiva em uma memória falsa"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Em que ano a bomba atômica foi lançada sobre Hiroshima, no Japão?",
-      "opcoes": [
-        "1942",
-        "1945",
-        "1950",
-        "1939"
-      ],
-      "resposta": "1945"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome da cratera de impacto de meteorito mais famosa e bem preservada nos Estados Unidos?",
-      "opcoes": [
-        "Cratera de Chicxulub",
-        "Cratera do Barringer",
-        "Cratera de Vredefort",
-        "Cratera de Nördlinger"
-      ],
-      "resposta": "Cratera do Barringer"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o rio mais longo do mundo?",
-      "opcoes": [
-        "Rio Amazonas",
-        "Rio Nilo",
-        "Rio Yang-tzé",
-        "Rio Mississippi"
-      ],
-      "resposta": "Rio Amazonas"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Em qual país se localiza Machu Picchu?",
-      "opcoes": [
-        "Brasil",
-        "México",
-        "Peru",
-        "Chile"
-      ],
-      "resposta": "Peru"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o primeiro cientista a propor a teoria da relatividade?",
-      "opcoes": [
-        "Isaac Newton",
-        "Albert Einstein",
-        "Stephen Hawking",
-        "Galileu Galilei"
-      ],
-      "resposta": "Albert Einstein"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o país com a maior população do mundo?",
-      "opcoes": [
-        "Estados Unidos",
-        "China",
-        "Índia",
-        "Rússia"
-      ],
-      "resposta": "Índia"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é a capital da Austrália?",
-      "opcoes": [
-        "Sydney",
-        "Melbourne",
-        "Canberra",
-        "Brisbane"
-      ],
-      "resposta": "Canberra"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem pintou a obra 'Guernica', em protesto contra a guerra civil espanhola?",
-      "opcoes": [
-        "Salvador Dalí",
-        "Pablo Picasso",
-        "Frida Kahlo",
-        "Vincent van Gogh"
-      ],
-      "resposta": "Pablo Picasso"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é a substância mais abundante na crosta terrestre?",
-      "opcoes": [
-        "Ferro",
-        "Alumínio",
-        "Silício",
-        "Oxigênio"
-      ],
-      "resposta": "Oxigênio"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome do vulcão que destruiu a cidade de Pompeia, na Itália, em 79 d.C.?",
-      "opcoes": [
-        "Etna",
-        "Vesúvio",
-        "Krakatoa",
-        "Fuji"
-      ],
-      "resposta": "Vesúvio"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o primeiro presidente do Brasil?",
-      "opcoes": [
-        "Getúlio Vargas",
-        "Deodoro da Fonseca",
-        "Juscelino Kubitschek",
-        "Marechal Floriano Peixoto"
-      ],
-      "resposta": "Deodoro da Fonseca"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual a principal causa da extinção dos dinossauros, de acordo com a teoria mais aceita?",
-      "opcoes": [
-        "Erupções vulcânicas",
-        "Mudanças climáticas",
-        "Impacto de um asteroide",
-        "Doenças"
-      ],
-      "resposta": "Impacto de um asteroide"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é o maior mamífero terrestre do mundo?",
-      "opcoes": [
-        "Elefante africano",
-        "Baleia-azul",
-        "Girafa",
-        "Rinoceronte"
-      ],
-      "resposta": "Elefante africano"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual a moeda oficial da Suíça?",
-      "opcoes": [
-        "Euro",
-        "Franco suíço",
-        "Dólar",
-        "Lira"
-      ],
-      "resposta": "Franco suíço"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Em qual ano a internet se tornou acessível ao público em geral?",
-      "opcoes": [
-        "1969",
-        "1983",
-        "1991",
-        "2000"
-      ],
-      "resposta": "1991"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome da montanha mais alta do mundo?",
-      "opcoes": [
-        "Monte Kilimanjaro",
-        "Monte Aconcágua",
-        "Monte Everest",
-        "Monte Fuji"
-      ],
-      "resposta": "Monte Everest"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o autor da teoria do Big Bang?",
-      "opcoes": [
-        "Stephen Hawking",
-        "Georges Lemaître",
-        "Edwin Hubble",
-        "Carl Sagan"
-      ],
-      "resposta": "Georges Lemaître"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome da bactéria que causa a tuberculose?",
-      "opcoes": [
-        "Escherichia coli",
-        "Mycobacterium tuberculosis",
-        "Staphylococcus aureus",
-        "Salmonella typhi"
-      ],
-      "resposta": "Mycobacterium tuberculosis"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Em qual país se originou o jogo de xadrez?",
-      "opcoes": [
-        "China",
-        "Índia",
-        "Egito",
-        "Grécia"
-      ],
-      "resposta": "Índia"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome do deserto mais seco do mundo?",
-      "opcoes": [
-        "Deserto do Saara",
-        "Deserto de Gobi",
-        "Deserto do Atacama",
-        "Deserto da Patagônia"
-      ],
-      "resposta": "Deserto do Atacama"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome do maior oceano do mundo?",
-      "opcoes": [
-        "Oceano Atlântico",
-        "Oceano Índico",
-        "Oceano Pacífico",
-        "Oceano Ártico"
-      ],
-      "resposta": "Oceano Pacífico"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Em qual continente se localiza a maior floresta tropical do mundo, a Floresta Amazônica?",
-      "opcoes": [
-        "Ásia",
-        "América do Sul",
-        "África",
-        "América do Norte"
-      ],
-      "resposta": "América do Sul"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual a capital da China?",
-      "opcoes": [
-        "Xangai",
-        "Hong Kong",
-        "Pequim",
-        "Cantão"
-      ],
-      "resposta": "Pequim"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o primeiro explorador a chegar ao Polo Norte?",
-      "opcoes": [
-        "Robert Peary",
-        "Roald Amundsen",
-        "James Clark Ross",
-        "Ernest Shackleton"
-      ],
-      "resposta": "Robert Peary"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome da bactéria responsável pela produção de iogurte?",
-      "opcoes": [
-        "Escherichia coli",
-        "Salmonella typhi",
-        "Lactobacillus bulgaricus",
-        "Streptococcus pyogenes"
-      ],
-      "resposta": "Lactobacillus bulgaricus"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é a cidade italiana que foi destruída por um vulcão em 79 d.C.?",
-      "opcoes": [
-        "Roma",
-        "Nápoles",
-        "Pompeia",
-        "Florença"
-      ],
-      "resposta": "Pompeia"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é o nome da maior ilha do mundo?",
-      "opcoes": [
-        "Austrália",
-        "Groenlândia",
-        "Nova Guiné",
-        "Madagascar"
-      ],
-      "resposta": "Groenlândia"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o líder da Revolução Cubana?",
-      "opcoes": [
-        "Che Guevara",
-        "Fidel Castro",
-        "Raúl Castro",
-        "Camilo Cienfuegos"
-      ],
-      "resposta": "Fidel Castro"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o país conhecido como 'A Terra do Sol Nascente'?",
-      "opcoes": [
-        "Coreia do Sul",
-        "China",
-        "Japão",
-        "Tailândia"
-      ],
-      "resposta": "Japão"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é a capital da África do Sul?",
-      "opcoes": [
-        "Joanesburgo",
-        "Cidade do Cabo",
-        "Pretória",
-        "Durban"
-      ],
-      "resposta": "Pretória"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o primeiro imperador romano?",
-      "opcoes": [
-        "Júlio César",
-        "Augusto",
-        "Nero",
-        "Calígula"
-      ],
-      "resposta": "Augusto"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual a maior cordilheira do mundo?",
-      "opcoes": [
-        "Andes",
-        "Himalaia",
-        "Montanhas Rochosas",
-        "Alpes"
-      ],
-      "resposta": "Andes"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é o maior planeta do sistema solar?",
-      "opcoes": [
-        "Marte",
-        "Júpiter",
-        "Saturno",
-        "Vênus"
-      ],
-      "resposta": "Júpiter"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual é a capital da Alemanha?",
-      "opcoes": [
-        "Munique",
-        "Berlim",
-        "Frankfurt",
-        "Hamburgo"
-      ],
-      "resposta": "Berlim"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome da cidade italiana que afunda lentamente devido à sua localização e à elevação do nível do mar?",
-      "opcoes": [
-        "Roma",
-        "Veneza",
-        "Florença",
-        "Milão"
-      ],
-      "resposta": "Veneza"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem é o autor da obra 'Dom Quixote de La Mancha'?",
-      "opcoes": [
-        "Miguel de Cervantes",
-        "William Shakespeare",
-        "Victor Hugo",
-        "Charles Dickens"
-      ],
-      "resposta": "Miguel de Cervantes"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome do maior deserto do mundo?",
-      "opcoes": [
-        "Deserto do Saara",
-        "Deserto do Atacama",
-        "Deserto da Antártida",
-        "Deserto de Gobi"
-      ],
-      "resposta": "Deserto da Antártida"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o animal considerado o mais rápido do mundo?",
-      "opcoes": [
-        "Guepardo",
-        "Falcão-peregrino",
-        "Antílope-saiga",
-        "Peixe-espada"
-      ],
-      "resposta": "Falcão-peregrino"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
-      "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
-      "opcoes": [
-        "Yuri Gagarin",
-        "Buzz Aldrin",
-        "Neil Armstrong",
-        "Michael Collins"
-      ],
-      "resposta": "Neil Armstrong"
-    },
-    {
-      "categoria": "Conhecimentos gerais",
       "pergunta": "Qual é o maior oceano do mundo?",
       "opcoes": [
-        "Oceano Pacífico",
-        "Oceano Atlântico",
-        "Oceano Índico",
-        "Oceano Ártico"
+        "Atlântico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
       ],
-      "resposta": "Oceano Pacífico"
+      "resposta": "Pacífico"
     },
     {
       "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o nome da substância que as plantas usam para fazer fotossíntese?",
+      "pergunta": "Qual é o animal terrestre mais rápido?",
       "opcoes": [
-        "Dióxido de carbono",
-        "Clorofila",
-        "Água",
-        "Luz"
+        "Leão",
+        "Guepardo",
+        "Antílope",
+        "Cavalo"
       ],
-      "resposta": "Clorofila"
+      "resposta": "Guepardo"
     },
     {
       "categoria": "Conhecimentos gerais",
-      "pergunta": "Qual o maior país do mundo em área?",
+      "pergunta": "Qual é a montanha mais alta do mundo?",
       "opcoes": [
-        "China",
-        "Canadá",
-        "Estados Unidos",
-        "Rússia"
+        "K2",
+        "Everest",
+        "Kilimanjaro",
+        "Aconcágua"
       ],
-      "resposta": "Rússia"
+      "resposta": "Everest"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o rio mais longo do mundo?",
+      "opcoes": [
+        "Nilo",
+        "Amazonas",
+        "Mississippi",
+        "Yangtzé"
+      ],
+      "resposta": "Nilo"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o maior deserto do mundo?",
+      "opcoes": [
+        "Saara",
+        "Gobi",
+        "Antártico",
+        "Arábico"
+      ],
+      "resposta": "Antártico"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme de 1994 é baseado em Stephen King?",
+      "opcoes": [
+        "O Iluminado",
+        "Carrie",
+        "Um Sonho de Liberdade",
+        "Cemitério Maldito"
+      ],
+      "resposta": "Um Sonho de Liberdade"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série da HBO é baseada em George R.R. Martin?",
+      "opcoes": [
+        "Breaking Bad",
+        "Game of Thrones",
+        "The Sopranos",
+        "The Wire"
+      ],
+      "resposta": "Game of Thrones"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual ator interpretou Tony Stark no MCU?",
+      "opcoes": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "resposta": "Robert Downey Jr."
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual filme da Disney tem uma princesa que vira urso?",
+      "opcoes": [
+        "Frozen",
+        "Moana",
+        "Brave",
+        "Encanto"
+      ],
+      "resposta": "Brave"
+    },
+    {
+      "categoria": "Filmes e Séries",
+      "pergunta": "Qual série da Netflix tem Eleven como protagonista?",
+      "opcoes": [
+        "Dark",
+        "Stranger Things",
+        "The OA",
+        "Black Mirror"
+      ],
+      "resposta": "Stranger Things"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual escritor brasileiro escreveu O Cortiço?",
+      "opcoes": [
+        "Machado de Assis",
+        "Aluísio Azevedo",
+        "José de Alencar",
+        "Castro Alves"
+      ],
+      "resposta": "Aluísio Azevedo"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual banda britânica fez Bohemian Rhapsody?",
+      "opcoes": [
+        "The Beatles",
+        "Queen",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ],
+      "resposta": "Queen"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual poeta escreveu Os Lusíadas?",
+      "opcoes": [
+        "Fernando Pessoa",
+        "Luís de Camões",
+        "Cecília Meireles",
+        "Carlos Drummond"
+      ],
+      "resposta": "Luís de Camões"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual cantora é conhecida como A Pequena Notável?",
+      "opcoes": [
+        "Elis Regina",
+        "Gal Costa",
+        "Carmen Miranda",
+        "Rita Lee"
+      ],
+      "resposta": "Carmen Miranda"
+    },
+    {
+      "categoria": "Livros e Músicas",
+      "pergunta": "Qual livro de J.K. Rowling introduz Harry Potter?",
+      "opcoes": [
+        "Harry Potter e a Pedra Filosofal",
+        "Harry Potter e a Câmara Secreta",
+        "Harry Potter e o Prisioneiro de Azkaban",
+        "Harry Potter e o Cálice de Fogo"
+      ],
+      "resposta": "Harry Potter e a Pedra Filosofal"
     }
   ]
 }

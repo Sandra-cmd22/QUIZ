@@ -12,11 +12,11 @@ function App() {
   const [quizTotal, setQuizTotal] = useState(0);
 
   // Get unique categories from questions
-  const categories = [...new Set(questionsData.map(q => q.categoria))];
+  const categories = [...new Set(questionsData.perguntas.map(q => q.categoria))];
 
   // Get questions for selected category
   const getCategoryQuestions = (category) => {
-    return questionsData.filter(q => q.categoria === category);
+    return questionsData.perguntas.filter(q => q.categoria === category);
   };
 
   const handleStart = () => {

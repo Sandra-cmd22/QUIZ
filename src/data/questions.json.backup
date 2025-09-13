@@ -1,0 +1,1623 @@
+{
+  "perguntas": [
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a lei de Newton que afirma que 'a toda ação corresponde uma reação, de igual intensidade, mesma direção e sentido oposto'?",
+      "opcoes": [
+        "Primeira Lei de Newton (Lei da Inércia)",
+        "Segunda Lei de Newton (Princípio Fundamental da Dinâmica)",
+        "Terceira Lei de Newton (Lei da Ação e Reação)",
+        "Lei da Gravitação Universal"
+      ],
+      "resposta": "Terceira Lei de Newton (Lei da Ação e Reação)"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um círculo, onde 'r' é o raio?",
+      "opcoes": [
+        "A = r²",
+        "A = 2πr",
+        "A = πr²",
+        "A = r³"
+      ],
+      "resposta": "A = πr²"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do processo em que as plantas produzem seu próprio alimento?",
+      "opcoes": [
+        "Respiração celular",
+        "Fotossíntese",
+        "Transpiração",
+        "Reprodução"
+      ],
+      "resposta": "Fotossíntese"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do período histórico que se seguiu à Queda do Império Romano do Ocidente em 476 d.C.?",
+      "opcoes": [
+        "Idade Antiga",
+        "Idade Média",
+        "Idade Moderna",
+        "Idade Contemporânea"
+      ],
+      "resposta": "Idade Média"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do ácido sulfúrico?",
+      "opcoes": [
+        "H2O",
+        "HCl",
+        "HNO3",
+        "H2SO4"
+      ],
+      "resposta": "H2SO4"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a teoria que afirma que o universo se expandiu a partir de um único ponto de alta densidade e temperatura?",
+      "opcoes": [
+        "Teoria da Relatividade",
+        "Teoria do Big Bang",
+        "Teoria da Gravidade",
+        "Teoria da Evolução"
+      ],
+      "resposta": "Teoria do Big Bang"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um triângulo, onde 'b' é a base e 'h' é a altura?",
+      "opcoes": [
+        "A = b x h",
+        "A = (b x h) / 2",
+        "A = b + h",
+        "A = b²"
+      ],
+      "resposta": "A = (b x h) / 2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do cientista que formulou a lei da gravidade universal?",
+      "opcoes": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileu Galilei",
+        "Stephen Hawking"
+      ],
+      "resposta": "Isaac Newton"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do dióxido de carbono?",
+      "opcoes": [
+        "H2O",
+        "O2",
+        "CO2",
+        "N2"
+      ],
+      "resposta": "CO2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do processo em que a água muda do estado líquido para o gasoso?",
+      "opcoes": [
+        "Condensação",
+        "Evaporação",
+        "Sublimação",
+        "Solidificação"
+      ],
+      "resposta": "Evaporação"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o período histórico que se seguiu à Revolução Francesa?",
+      "opcoes": [
+        "Renascimento",
+        "Iluminismo",
+        "Idade Contemporânea",
+        "Idade Média"
+      ],
+      "resposta": "Idade Contemporânea"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do sal de cozinha?",
+      "opcoes": [
+        "NaCl",
+        "HCl",
+        "H2O",
+        "CO2"
+      ],
+      "resposta": "NaCl"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome da teoria que afirma que a vida se originou de organismos unicelulares?",
+      "opcoes": [
+        "Teoria da Geração Espontânea",
+        "Teoria do Criacionismo",
+        "Teoria da Evolução",
+        "Teoria do Big Bang"
+      ],
+      "resposta": "Teoria da Evolução"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um quadrado, onde 'l' é o lado?",
+      "opcoes": [
+        "A = l x 2",
+        "A = l³",
+        "A = l²",
+        "A = l x 4"
+      ],
+      "resposta": "A = l²"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do cientista que formulou a teoria da evolução?",
+      "opcoes": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Isaac Newton"
+      ],
+      "resposta": "Charles Darwin"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do hidróxido de sódio?",
+      "opcoes": [
+        "NaCl",
+        "HCl",
+        "NaOH",
+        "H2SO4"
+      ],
+      "resposta": "NaOH"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do processo em que as rochas se quebram em pedaços menores?",
+      "opcoes": [
+        "Erosão",
+        "Intemperismo",
+        "Sedimentação",
+        "Metamorfismo"
+      ],
+      "resposta": "Intemperismo"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o período histórico que se seguiu à Guerra Fria?",
+      "opcoes": [
+        "Idade Contemporânea",
+        "Pós-Guerra Fria",
+        "Renascimento",
+        "Guerra Fria"
+      ],
+      "resposta": "Pós-Guerra Fria"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do ácido clorídrico?",
+      "opcoes": [
+        "HCl",
+        "H2SO4",
+        "HNO3",
+        "NaOH"
+      ],
+      "resposta": "HCl"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a teoria que afirma que a luz é composta de partículas?",
+      "opcoes": [
+        "Teoria da Relatividade",
+        "Teoria Corpuscular da Luz",
+        "Teoria Ondulatória da Luz",
+        "Teoria da Gravidade"
+      ],
+      "resposta": "Teoria Corpuscular da Luz"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um retângulo, onde 'b' é a base e 'h' é a altura?",
+      "opcoes": [
+        "A = b + h",
+        "A = b x h",
+        "A = 2(b + h)",
+        "A = b² + h²"
+      ],
+      "resposta": "A = b x h"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do cientista que formulou a lei da conservação da energia?",
+      "opcoes": [
+        "Albert Einstein",
+        "James Prescott Joule",
+        "Isaac Newton",
+        "Stephen Hawking"
+      ],
+      "resposta": "James Prescott Joule"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do amônia?",
+      "opcoes": [
+        "NH3",
+        "H2O",
+        "CO2",
+        "NaCl"
+      ],
+      "resposta": "NH3"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do processo em que a matéria muda do estado sólido para o líquido?",
+      "opcoes": [
+        "Solidificação",
+        "Vaporização",
+        "Fusão",
+        "Sublimação"
+      ],
+      "resposta": "Fusão"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o período histórico que se seguiu à Idade Antiga?",
+      "opcoes": [
+        "Idade Média",
+        "Idade Moderna",
+        "Idade Contemporânea",
+        "Renascimento"
+      ],
+      "resposta": "Idade Média"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome da teoria que afirma que o espaço e o tempo são relativos?",
+      "opcoes": [
+        "Teoria do Big Bang",
+        "Teoria da Relatividade",
+        "Teoria da Gravidade",
+        "Teoria da Evolução"
+      ],
+      "resposta": "Teoria da Relatividade"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um trapézio?",
+      "opcoes": [
+        "A = ((B+b) x h) / 2",
+        "A = B x h",
+        "A = (B+b) x h",
+        "A = (B-b) x h / 2"
+      ],
+      "resposta": "A = ((B+b) x h) / 2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do cientista que formulou a teoria da relatividade geral?",
+      "opcoes": [
+        "Isaac Newton",
+        "Stephen Hawking",
+        "Albert Einstein",
+        "Galileu Galilei"
+      ],
+      "resposta": "Albert Einstein"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do ácido fosfórico?",
+      "opcoes": [
+        "H3PO4",
+        "H2SO4",
+        "HNO3",
+        "HCl"
+      ],
+      "resposta": "H3PO4"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do processo em que a matéria muda do estado gasoso para o líquido?",
+      "opcoes": [
+        "Vaporização",
+        "Condensação",
+        "Solidificação",
+        "Fusão"
+      ],
+      "resposta": "Condensação"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o período histórico que se seguiu à Revolução Industrial?",
+      "opcoes": [
+        "Idade Média",
+        "Renascimento",
+        "Idade Moderna",
+        "Idade Contemporânea"
+      ],
+      "resposta": "Idade Moderna"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do ácido carbônico?",
+      "opcoes": [
+        "H2CO3",
+        "H2SO4",
+        "HNO3",
+        "HCl"
+      ],
+      "resposta": "H2CO3"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a teoria que afirma que o universo está em constante mudança?",
+      "opcoes": [
+        "Teoria do Big Bang",
+        "Teoria da Gravidade",
+        "Teoria do Estado Estacionário",
+        "Teoria da Relatividade"
+      ],
+      "resposta": "Teoria do Estado Estacionário"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um losango?",
+      "opcoes": [
+        "A = (D x d) / 2",
+        "A = D x d",
+        "A = (D + d) / 2",
+        "A = 4 x D"
+      ],
+      "resposta": "A = (D x d) / 2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do cientista que formulou a lei da termodinâmica?",
+      "opcoes": [
+        "James Prescott Joule",
+        "Nicolas Carnot",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "resposta": "Nicolas Carnot"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do gás hidrogênio?",
+      "opcoes": [
+        "H2",
+        "O2",
+        "N2",
+        "CH4"
+      ],
+      "resposta": "H2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do processo em que a matéria muda do estado líquido para o sólido?",
+      "opcoes": [
+        "Fusão",
+        "Solidificação",
+        "Condensação",
+        "Vaporização"
+      ],
+      "resposta": "Solidificação"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o período histórico que se seguiu à Primeira Guerra Mundial?",
+      "opcoes": [
+        "Idade Moderna",
+        "Pós-Primeira Guerra",
+        "Grande Depressão",
+        "Segunda Guerra Mundial"
+      ],
+      "resposta": "Pós-Primeira Guerra"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do gás oxigênio?",
+      "opcoes": [
+        "O3",
+        "O2",
+        "H2O",
+        "CO2"
+      ],
+      "resposta": "O2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome da teoria que afirma que o universo é um multiverso?",
+      "opcoes": [
+        "Teoria da Relatividade",
+        "Teoria das Cordas",
+        "Teoria do Big Bang",
+        "Teoria do Multiverso"
+      ],
+      "resposta": "Teoria do Multiverso"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um círculo?",
+      "opcoes": [
+        "A = πr²",
+        "A = 2πr",
+        "A = πr",
+        "A = 2πr²"
+      ],
+      "resposta": "A = πr²"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do cientista que formulou a teoria do caos?",
+      "opcoes": [
+        "Edward Norton Lorenz",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking"
+      ],
+      "resposta": "Edward Norton Lorenz"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do gás nitrogênio?",
+      "opcoes": [
+        "N",
+        "N2",
+        "NH3",
+        "NO2"
+      ],
+      "resposta": "N2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome do processo em que a matéria muda do estado sólido para o gasoso?",
+      "opcoes": [
+        "Fusão",
+        "Vaporização",
+        "Sublimação",
+        "Condensação"
+      ],
+      "resposta": "Sublimação"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o período histórico que se seguiu à Guerra do Vietnã?",
+      "opcoes": [
+        "Idade Moderna",
+        "Guerra Fria",
+        "Pós-Guerra Fria",
+        "Guerra do Vietnã"
+      ],
+      "resposta": "Pós-Guerra Fria"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula química do gás cloro?",
+      "opcoes": [
+        "Cl",
+        "Cl2",
+        "HCl",
+        "NaCl"
+      ],
+      "resposta": "Cl2"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a teoria que afirma que o universo é um holograma?",
+      "opcoes": [
+        "Teoria da Relatividade",
+        "Teoria das Cordas",
+        "Princípio Holográfico",
+        "Teoria do Big Bang"
+      ],
+      "resposta": "Princípio Holográfico"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual a fórmula para calcular a área de um triângulo equilátero?",
+      "opcoes": [
+        "A = (l²√3) / 4",
+        "A = l x h",
+        "A = (l x h) / 2",
+        "A = l²"
+      ],
+      "resposta": "A = (l²√3) / 4"
+    },
+    {
+      "categoria": "Estudos",
+      "pergunta": "Qual o nome da teoria que explica como a vida surgiu a partir de moléculas orgânicas em condições primitivas?",
+      "opcoes": [
+        "Teoria da Panspermia",
+        "Teoria da Geração Espontânea",
+        "Teoria da Biogênese",
+        "Teoria da Abiogênese"
+      ],
+      "resposta": "Teoria da Abiogênese"
+    },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é a primeira frase do livro 'Cem Anos de Solidão' de Gabriel García Márquez?",
+        "opcoes": [
+          "'Muitos anos depois, diante do pelotão de fuzilamento, o Coronel Aureliano Buendía havia de recordar aquela tarde remota em que seu pai o levou para conhecer o gelo.'",
+          "'Foi o melhor dos tempos, foi o pior dos tempos.'",
+          "'No princípio, Deus criou os céus e a terra.'",
+          "'Todas as famílias felizes se parecem; cada família infeliz é infeliz à sua maneira.'"
+        ],
+        "resposta": "'Muitos anos depois, diante do pelotão de fuzilamento, o Coronel Aureliano Buendía havia de recordar aquela tarde remota em que seu pai o levou para conhecer o gelo.'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Em '1984' de George Orwell, qual é o slogan do Partido?",
+        "opcoes": [
+          "'Paz, Pão e Terra'",
+          "'Liberdade é Escravidão'",
+          "'Guerra é Paz'",
+          "'Ignorância é Força'"
+        ],
+        "resposta": "'Guerra é Paz'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual banda gravou a música 'Bohemian Rhapsody'?",
+        "opcoes": [
+          "Led Zeppelin",
+          "Queen",
+          "Pink Floyd",
+          "The Beatles"
+        ],
+        "resposta": "Queen"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Em 'O Morro dos Ventos Uivantes', qual o nome do protagonista obcecado por Catherine?",
+        "opcoes": [
+          "Heathcliff",
+          "Edgar Linton",
+          "Hareton Earnshaw",
+          "Linton Heathcliff"
+        ],
+        "resposta": "Heathcliff"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Em 'O Senhor dos Anéis', qual é o nome do anel que Frodo precisa destruir?",
+        "opcoes": [
+          "O Anel de Sauron",
+          "O Anel do Poder",
+          "O Um Anel",
+          "O Anel dos Elfos"
+        ],
+        "resposta": "O Um Anel"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música mais famosa de Led Zeppelin?",
+        "opcoes": [
+          "'Kashmir'",
+          "'Whole Lotta Love'",
+          "'Stairway to Heaven'",
+          "'Immigrant Song'"
+        ],
+        "resposta": "'Stairway to Heaven'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Pequeno Príncipe', qual é o planeta que o Pequeno Príncipe vive?",
+        "opcoes": [
+          "B-612",
+          "O Planeta da Lua",
+          "O Planeta do Rei",
+          "O Planeta da Rosa"
+        ],
+        "resposta": "B-612"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Em 'Crime e Castigo', qual é o nome do protagonista que comete um assassinato?",
+        "opcoes": [
+          "Nikolai Raskolnikov",
+          "Rodion Raskolnikov",
+          "Porfiry Petrovich",
+          "Dmitri Raskolnikov"
+        ],
+        "resposta": "Rodion Raskolnikov"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de Michael Jackson que contém a música 'Thriller'?",
+        "opcoes": [
+          "Off the Wall",
+          "Bad",
+          "Dangerous",
+          "Thriller"
+        ],
+        "resposta": "Thriller"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'A Peste', de Albert Camus, qual é a cidade em que a peste se espalha?",
+        "opcoes": [
+          "Paris",
+          "Argel",
+          "Oran",
+          "Casablanca"
+        ],
+        "resposta": "Oran"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de Bob Dylan que foi um clássico de protesto?",
+        "opcoes": [
+          "'Like a Rolling Stone'",
+          "'Knockin' on Heaven's Door'",
+          "'The Times They Are a-Changin''",
+          "'Blowin' in the Wind'"
+        ],
+        "resposta": "'Blowin' in the Wind'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'Dom Quixote', qual é o nome do cavalo de Dom Quixote?",
+        "opcoes": [
+          "Rocinante",
+          "Sansão Carrasco",
+          "Sancho Pança",
+          "Aldonza Lorenzo"
+        ],
+        "resposta": "Rocinante"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de Pink Floyd que tem a capa com um prisma?",
+        "opcoes": [
+          "The Wall",
+          "Wish You Were Here",
+          "The Dark Side of the Moon",
+          "Animals"
+        ],
+        "resposta": "The Dark Side of the Moon"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Grande Gatsby', qual é o nome da mulher que Gatsby ama?",
+        "opcoes": [
+          "Daisy Buchanan",
+          "Jordan Baker",
+          "Myrtle Wilson",
+          "Catherine"
+        ],
+        "resposta": "Daisy Buchanan"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de Nirvana que contém a música 'Smells Like Teen Spirit'?",
+        "opcoes": [
+          "Bleach",
+          "Nevermind",
+          "In Utero",
+          "MTV Unplugged in New York"
+        ],
+        "resposta": "Nevermind"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Apanhador no Campo de Centeio', qual é o nome do protagonista?",
+        "opcoes": [
+          "Holden Caulfield",
+          "Jay Gatsby",
+          "Winston Smith",
+          "Randle McMurphy"
+        ],
+        "resposta": "Holden Caulfield"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de Oasis que é um clássico do britpop?",
+        "opcoes": [
+          "'Wonderwall'",
+          "'Don't Look Back in Anger'",
+          "'Champagne Supernova'",
+          "'Live Forever'"
+        ],
+        "resposta": "'Wonderwall'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Nome da Rosa', qual é o nome do monge que investiga os assassinatos?",
+        "opcoes": [
+          "Guilherme de Baskerville",
+          "Adso de Melk",
+          "Jorge de Burgos",
+          "Remígio de Varagine"
+        ],
+        "resposta": "Guilherme de Baskerville"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de Radiohead que contém a música 'Creep'?",
+        "opcoes": [
+          "The Bends",
+          "OK Computer",
+          "Kid A",
+          "Pablo Honey"
+        ],
+        "resposta": "Pablo Honey"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Retrato de Dorian Gray', qual é o nome do pintor que faz o retrato?",
+        "opcoes": [
+          "Basil Hallward",
+          "Lord Henry Wotton",
+          "James Vane",
+          "Sra. Vane"
+        ],
+        "resposta": "Basil Hallward"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de David Bowie que contém a música 'Space Oddity'?",
+        "opcoes": [
+          "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+          "Low",
+          "Heroes",
+          "Space Oddity"
+        ],
+        "resposta": "Space Oddity"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'Lolita', qual é o nome do protagonista que se apaixona por uma ninfeta?",
+        "opcoes": [
+          "Humbert Humbert",
+          "Quilty",
+          "Charlotte Haze",
+          "Dolores Haze"
+        ],
+        "resposta": "Humbert Humbert"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de AC/DC que é um clássico do hard rock?",
+        "opcoes": [
+          "'Highway to Hell'",
+          "'Back in Black'",
+          "'Thunderstruck'",
+          "'You Shook Me All Night Long'"
+        ],
+        "resposta": "'Back in Black'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Velho e o Mar', qual é o nome do velho pescador?",
+        "opcoes": [
+          "Manolin",
+          "Santiago",
+          "Perico",
+          "Demetrio"
+        ],
+        "resposta": "Santiago"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de The Clash que contém a música 'London Calling'?",
+        "opcoes": [
+          "Sandinista!",
+          "Combat Rock",
+          "London Calling",
+          "The Clash"
+        ],
+        "resposta": "London Calling"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'Admirável Mundo Novo', qual é o nome do protagonista?",
+        "opcoes": [
+          "Bernard Marx",
+          "John o Selvagem",
+          "Mustapha Mond",
+          "Lenina Crowne"
+        ],
+        "resposta": "Bernard Marx"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de The Rolling Stones que é um clássico do rock and roll?",
+        "opcoes": [
+          "'Gimme Shelter'",
+          "'Paint It, Black'",
+          "'(I Can't Get No) Satisfaction'",
+          "'Sympathy for the Devil'"
+        ],
+        "resposta": "'(I Can't Get No) Satisfaction'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'A Metamorfose', qual é o nome do protagonista que se transforma em um inseto?",
+        "opcoes": [
+          "Franz Kafka",
+          "Gregor Samsa",
+          "Grete Samsa",
+          "O Pai"
+        ],
+        "resposta": "Gregor Samsa"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de Bob Marley and the Wailers que contém a música 'No Woman, No Cry'?",
+        "opcoes": [
+          "Exodus",
+          "Rastaman Vibration",
+          "Natty Dread",
+          "Kaya"
+        ],
+        "resposta": "Natty Dread"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Cão dos Baskervilles', qual é o nome do detetive?",
+        "opcoes": [
+          "Sherlock Holmes",
+          "Dr. Watson",
+          "Mycroft Holmes",
+          "Inspector Lestrade"
+        ],
+        "resposta": "Sherlock Holmes"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de R.E.M. que é um clássico do rock alternativo?",
+        "opcoes": [
+          "'Losing My Religion'",
+          "'Everybody Hurts'",
+          "'The One I Love'",
+          "'It's the End of the World as We Know It (And I Feel Fine)'"
+        ],
+        "resposta": "'Losing My Religion'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'A Montanha Mágica', qual é o nome do sanatório em que a história se passa?",
+        "opcoes": [
+          "Berghof Sanatorium",
+          "Zauberberg Sanatorium",
+          "Walhalla Sanatorium",
+          "Lager Sanatorium"
+        ],
+        "resposta": "Berghof Sanatorium"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de The Doors que contém a música 'Light My Fire'?",
+        "opcoes": [
+          "Strange Days",
+          "L.A. Woman",
+          "The Doors",
+          "Morrison Hotel"
+        ],
+        "resposta": "The Doors"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'A Divina Comédia', qual é o nome do guia de Dante no Inferno?",
+        "opcoes": [
+          "Virgílio",
+          "Beatrice",
+          "São Pedro",
+          "São Tomé"
+        ],
+        "resposta": "Virgílio"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de Johnny Cash que é um cover de uma música de Nine Inch Nails?",
+        "opcoes": [
+          "'Hurt'",
+          "'Folsom Prison Blues'",
+          "'I Walk the Line'",
+          "'Ring of Fire'"
+        ],
+        "resposta": "'Hurt'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Estrangeiro', qual é o nome do protagonista que comete um assassinato e não sente remorso?",
+        "opcoes": [
+          "Albert Camus",
+          "Meursault",
+          "Raymond",
+          "Emmanuel"
+        ],
+        "resposta": "Meursault"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de Led Zeppelin que contém a música 'Stairway to Heaven'?",
+        "opcoes": [
+          "Led Zeppelin I",
+          "Led Zeppelin II",
+          "Led Zeppelin III",
+          "Led Zeppelin IV"
+        ],
+        "resposta": "Led Zeppelin IV"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'Frankenstein', qual é o nome do cientista que cria a criatura?",
+        "opcoes": [
+          "Dr. Frankenstein",
+          "Victor Frankenstein",
+          "Dr. Jekyll",
+          "Dr. Hyde"
+        ],
+        "resposta": "Victor Frankenstein"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de Prince que é um clássico do funk rock?",
+        "opcoes": [
+          "'Purple Rain'",
+          "'When Doves Cry'",
+          "'Kiss'",
+          "'Let's Go Crazy'"
+        ],
+        "resposta": "'Kiss'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'O Nome do Vento', qual é o nome do protagonista?",
+        "opcoes": [
+          "Kvothe",
+          "Bast",
+          "Elodin",
+          "Denna"
+        ],
+        "resposta": "Kvothe"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de David Bowie que é um clássico do glam rock?",
+        "opcoes": [
+          "'Life on Mars?'",
+          "'Starman'",
+          "'Rebel Rebel'",
+          "'Ziggy Stardust'"
+        ],
+        "resposta": "'Ziggy Stardust'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do autor do livro 'O Senhor das Moscas'?",
+        "opcoes": [
+          "William Golding",
+          "J.D. Salinger",
+          "Jack Kerouac",
+          "George Orwell"
+        ],
+        "resposta": "William Golding"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de Queen que é um hino do rock?",
+        "opcoes": [
+          "'Bohemian Rhapsody'",
+          "'We Are the Champions'",
+          "'Don't Stop Me Now'",
+          "'Another One Bites the Dust'"
+        ],
+        "resposta": "'We Are the Champions'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'As Vinhas da Ira', qual é a família que viaja para a Califórnia?",
+        "opcoes": [
+          "Família Smith",
+          "Família Joad",
+          "Família Wilson",
+          "Família Jones"
+        ],
+        "resposta": "Família Joad"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do autor do livro 'Orgulho e Preconceito'?",
+        "opcoes": [
+          "Jane Austen",
+          "Emily Brontë",
+          "Charlotte Brontë",
+          "Mary Shelley"
+        ],
+        "resposta": "Jane Austen"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de U2 que é um hino de paz?",
+        "opcoes": [
+          "'With or Without You'",
+          "'One'",
+          "'Sunday Bloody Sunday'",
+          "'Where the Streets Have No Name'"
+        ],
+        "resposta": "'Sunday Bloody Sunday'"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "No livro 'A Revolução dos Bichos', qual é o nome do porco que lidera a revolução?",
+        "opcoes": [
+          "Napoleão",
+          "Bola de Neve",
+          "Sansão",
+          "Benjamim"
+        ],
+        "resposta": "Napoleão"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome do álbum de Guns N' Roses que contém a música 'Sweet Child o' Mine'?",
+        "opcoes": [
+          "Appetite for Destruction",
+          "Use Your Illusion I",
+          "Use Your Illusion II",
+          "G N' R Lies"
+        ],
+        "resposta": "Appetite for Destruction"
+      },
+      {
+        "categoria": "Livros e Músicas",
+        "pergunta": "Qual é o nome da música de Bob Dylan que é um clássico de protesto?",
+        "opcoes": [
+          "'Like a Rolling Stone'",
+          "'Blowin' in the Wind'",
+          "'The Times They Are a-Changin''",
+          "'Knockin' on Heaven's Door'"
+        ],
+        "resposta": "'Blowin' in the Wind'"
+      },
+      {
+        "perguntas": [
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Poderoso Chefão', qual é a frase icônica dita por Vito Corleone que se tornou um ditado popular sobre favores?",
+            "opcoes": [
+              "'Mantenha seus amigos perto, e seus inimigos mais perto ainda.'",
+              "'Eu vou fazer uma oferta que ele não poderá recusar.'",
+              "'Para um homem que tem família, ele nunca estará sozinho.'",
+              "'O homem que não passa tempo com sua família nunca pode ser um homem de verdade.'"
+            ],
+            "resposta": "'Eu vou fazer uma oferta que ele não poderá recusar.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Pulp Fiction', qual a frase que Jules Winnfield recita antes de matar suas vítimas, supostamente de Ezequiel 25:17?",
+            "opcoes": [
+              "'O caminho do homem justo está por todos os lados cercado pelas iniquidades dos egoístas e a tirania dos homens maus.'",
+              "'Deus ajuda quem cedo madruga.'",
+              "'O amor é paciente, o amor é bondoso.'",
+              "'O mal deve ser erradicado da Terra.'"
+            ],
+            "resposta": "'O caminho do homem justo está por todos os lados cercado pelas iniquidades dos egoístas e a tirania dos homens maus.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Clube da Luta', na cena final, o que o narrador e Marla Singer assistem enquanto os prédios da cidade são destruídos?",
+            "opcoes": [
+              "Um show de fogos de artifício",
+              "Um filme de terror",
+              "O nascer do sol",
+              "A explosão dos prédios ao som de 'Where Is My Mind?'"
+            ],
+            "resposta": "A explosão dos prédios ao som de 'Where Is My Mind?'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Vingadores: Ultimato', qual a última frase dita por Tony Stark antes de estalar os dedos, usando as Joias do Infinito?",
+            "opcoes": [
+              "'Eu sou o Homem de Ferro.'",
+              "'Eu sou inevitável.'",
+              "'Eu sou a esperança da humanidade.'",
+              "'Eu sou o futuro.'"
+            ],
+            "resposta": "'Eu sou o Homem de Ferro.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Game of Thrones', qual é o lema da Casa Stark?",
+            "opcoes": [
+              "'Fogo e Sangue'",
+              "'Nós não semeamos'",
+              "'Inverno está chegando'",
+              "'Crescendo fortes'"
+            ],
+            "resposta": "'Inverno está chegando'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Matrix', qual a escolha que Morpheus oferece a Neo para que ele veja a verdade sobre o mundo?",
+            "opcoes": [
+              "A pílula azul e a pílula vermelha",
+              "A pílula verde e a pílula preta",
+              "Uma arma e uma espada",
+              "O mapa e a chave"
+            ],
+            "resposta": "A pílula azul e a pílula vermelha"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Breaking Bad', qual é o nome da empresa de frango de Gus Fring que serve como fachada para seu império de metanfetamina?",
+            "opcoes": [
+              "Los Pollos Hermanos",
+              "Los Burritos Hermanos",
+              "Pollos Locos",
+              "Pollo Guapo"
+            ],
+            "resposta": "Los Pollos Hermanos"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Bastardos Inglórios', qual o nome do coronel da SS nazista conhecido como 'O Caçador de Judeus'?",
+            "opcoes": [
+              "Coronel Hans Landa",
+              "Major Hellstrom",
+              "Sgt. Werner Rachtman",
+              "General Franz Halder"
+            ],
+            "resposta": "Coronel Hans Landa"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Senhor dos Anéis', qual a frase icônica que Gandalf grita para o Balrog na Ponte de Khazad-dûm?",
+            "opcoes": [
+              "'Você não passará!'",
+              "'Eu sou um servo do fogo secreto!'",
+              "'Para o inferno!'",
+              "'Corram, seus tolos!'"
+            ],
+            "resposta": "'Você não passará!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'The Office', qual o lema de Michael Scott sobre a vida e a morte?",
+            "opcoes": [
+              "'É isso que ela disse!'",
+              "'Eu declaro falência!'",
+              "'A vida é curta, então viva-a intensamente.'",
+              "'O único jeito de fazer um bom trabalho é amar o que você faz.'"
+            ],
+            "resposta": "'É isso que ela disse!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Qual a famosa frase de 'O Iluminado', escrita por Jack Torrance repetidamente em sua máquina de escrever?",
+            "opcoes": [
+              "'Apenas trabalho e nada de diversão faz de Jack um garoto insosso.'",
+              "'Aqui está o Johnny!'",
+              "'Estou em casa!'",
+              "'Estou ficando louco!'"
+            ],
+            "resposta": "'Apenas trabalho e nada de diversão faz de Jack um garoto insosso.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'A Origem', qual é o objeto pessoal que Cobb usa para saber se está no mundo real ou em um sonho?",
+            "opcoes": [
+              "Um pião",
+              "Um dado",
+              "Um relógio de bolso",
+              "Uma moeda"
+            ],
+            "resposta": "Um pião"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Peaky Blinders', qual a frase que Thomas Shelby usa para se referir à sua família e seus negócios?",
+            "opcoes": [
+              "'No alívio, há uma dor.'",
+              "'Por ordem dos Peaky Blinders.'",
+              "'Eu sou a lei aqui.'",
+              "'O diabo está no detalhe.'"
+            ],
+            "resposta": "'Por ordem dos Peaky Blinders.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Kill Bill: Volume 1', qual o nome do grupo de assassinos que a Noiva tenta matar?",
+            "opcoes": [
+              "A Sociedade da Mão Negra",
+              "O Esquadrão Assassino de Víboras Mortais",
+              "A Ordem do Dragão",
+              "A Liga da Justiça"
+            ],
+            "resposta": "O Esquadrão Assassino de Víboras Mortais"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Stranger Things', qual o nome do monstro da Primeira Temporada que a Eleven derrota?",
+            "opcoes": [
+              "O Devorador de Mentes",
+              "O Demogorgon",
+              "O Vecna",
+              "O Mindflayer"
+            ],
+            "resposta": "O Demogorgon"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Fabuloso Destino de Amélie Poulain', qual é a frase que Amélie diz sobre a vida?",
+            "opcoes": [
+              "'É hora de amar o mundo.'",
+              "'São tempos difíceis para os sonhadores.'",
+              "'O destino é como um espelho quebrado.'",
+              "'A vida é uma caixinha de surpresas.'"
+            ],
+            "resposta": "'São tempos difíceis para os sonhadores.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Silêncio dos Inocentes', qual é a frase que Hannibal Lecter diz a Clarice Starling sobre sua juventude?",
+            "opcoes": [
+              "'Eu comi o fígado dele com feijão-fava e um bom Chianti.'",
+              "'Seu pai era um homem bom.'",
+              "'O mundo não vai perdoar sua fraqueza.'",
+              "'Ele me chamava de Doutor Lecter.'"
+            ],
+            "resposta": "'Eu comi o fígado dele com feijão-fava e um bom Chianti.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Gladiador', qual a frase que Maximus Decimus Meridius diz para seu exército antes da batalha?",
+            "opcoes": [
+              "'A morte sorri para todos nós. Tudo o que um homem pode fazer é sorrir de volta.'",
+              "'Força e honra.'",
+              "'Eles não podem nos parar.'",
+              "'O que fazemos em vida ecoa na eternidade.'"
+            ],
+            "resposta": "'O que fazemos em vida ecoa na eternidade.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Lobo de Wall Street', qual é a frase que Jordan Belfort fala para sua equipe de corretores, conhecida por sua intensidade?",
+            "opcoes": [
+              "'Venda-me esta caneta.'",
+              "'A ganância é boa.'",
+              "'Tempo é dinheiro.'",
+              "'A vitória pertence aos persistentes.'"
+            ],
+            "resposta": "'Venda-me esta caneta.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'La Casa de Papel', qual o codinome do personagem que comanda o assalto à Casa da Moeda da Espanha?",
+            "opcoes": [
+              "Berlim",
+              "Professor",
+              "Nairobi",
+              "Tóquio"
+            ],
+            "resposta": "Professor"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Cavaleiro das Trevas', qual a frase que o Coringa diz para o Batman sobre a natureza humana?",
+            "opcoes": [
+              "'Você não pode viver para sempre.'",
+              "'A única maneira sensata de viver neste mundo é sem regras.'",
+              "'Eu não sou o herói que você merece, mas o que você precisa.'",
+              "'O que não te mata, te deixa mais estranho.'"
+            ],
+            "resposta": "'O que não te mata, te deixa mais estranho.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Interestelar', qual a famosa equação da relatividade de Einstein que Cooper e Brand usam para viajar pelo espaço?",
+            "opcoes": [
+              "E=mc²",
+              "R=T²-K²",
+              "E=v³",
+              "R=S-Sg"
+            ],
+            "resposta": "E=mc²"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Friends', qual a frase que Joey Tribbiani usa para conquistar mulheres?",
+            "opcoes": [
+              "'Como você está?'",
+              "'Oi, gata, quer me ligar?'",
+              "'Como é que você está?'",
+              "'Eu sou o Joey, e você?'"
+            ],
+            "resposta": "'Como é que você está?'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Forest Gump', qual a famosa frase que o personagem principal diz sobre a vida?",
+            "opcoes": [
+              "'A vida é como uma caixa de chocolates. Você nunca sabe o que vai encontrar.'",
+              "'Corra, Forrest, corra!'",
+              "'Eu sou a lenda.'",
+              "'Nós vamos precisar de um barco maior.'"
+            ],
+            "resposta": "'A vida é como uma caixa de chocolates. Você nunca sabe o que vai encontrar.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Vikings', qual a frase de Ragnar Lothbrok para sua tripulação, que se tornou um símbolo de seu espírito de aventura?",
+            "opcoes": [
+              "'Por Valhalla!'",
+              "'Quem é o tolo?'",
+              "'Nós estamos indo para o oeste.'",
+              "'O medo me dá asas.'"
+            ],
+            "resposta": "'Nós estamos indo para o oeste.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Star Wars: O Império Contra-Ataca', qual a frase que Darth Vader diz para Luke Skywalker que chocou o público?",
+            "opcoes": [
+              "'Eu sou o seu pai.'",
+              "'Venha para o lado sombrio.'",
+              "'Não subestime a Força.'",
+              "'A Força está forte em você.'"
+            ],
+            "resposta": "'Eu sou o seu pai.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Laranja Mecânica', qual a frase que Alex DeLarge usa para se referir à violência?",
+            "opcoes": [
+              "'A vida é um teatro.'",
+              "'Meus queridos amigos, o futuro é agora.'",
+              "'Eles não podem me impedir.'",
+              "'Oh, que dia glorioso!'"
+            ],
+            "resposta": "'Oh, que dia glorioso!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Breaking Bad', qual a frase de Walter White que se tornou um símbolo de sua arrogância?",
+            "opcoes": [
+              "'Eu sou o perigo.'",
+              "'Eu sou Heisenberg.'",
+              "'Eu sou o Rei.'",
+              "'Eu sou o novo chefe.'"
+            ],
+            "resposta": "'Eu sou o perigo.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Mad Max: Estrada da Fúria', qual a frase que Immortan Joe diz para sua tripulação antes de perseguição?",
+            "opcoes": [
+              "'Testemunhem! Testemunhem a glória!'",
+              "'Peguem eles!'",
+              "'Não há salvação.'",
+              "'Um por todos, e todos por um!'"
+            ],
+            "resposta": "'Testemunhem! Testemunhem a glória!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Psicose' de Alfred Hitchcock, o que acontece com a personagem Marion Crane na famosa cena do chuveiro?",
+            "opcoes": [
+              "Ela é atacada por um assassino mascarado.",
+              "Ela é esfaqueada e morre.",
+              "Ela encontra um objeto misterioso.",
+              "Ela escapa ilesa."
+            ],
+            "resposta": "Ela é esfaqueada e morre."
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Qual a frase de Capitão Nascimento em 'Tropa de Elite' que se tornou um meme e um bordão popular?",
+            "opcoes": [
+              "'Missão dada é missão cumprida.'",
+              "'Pede pra sair!'",
+              "'O BOPE não é uma família.'",
+              "'Cachorro de favela.'"
+            ],
+            "resposta": "'Pede pra sair!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "No filme 'Matrix', qual a primeira coisa que Neo aprende a fazer após tomar a pílula vermelha?",
+            "opcoes": [
+              "Voar",
+              "Lutar",
+              "Escalar paredes",
+              "Desviar de balas"
+            ],
+            "resposta": "Desviar de balas"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Qual a famosa frase de Tyler Durden em 'Clube da Luta' sobre a sociedade?",
+            "opcoes": [
+              "'Você não é o seu emprego. Você não é a sua conta bancária.'",
+              "'Você é o que você faz.'",
+              "'Nós somos o que somos.'",
+              "'A vida é uma luta constante.'"
+            ],
+            "resposta": "'Você não é o seu emprego. Você não é a sua conta bancária.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Chernobyl', qual a frase de Valery Legasov sobre a verdade?",
+            "opcoes": [
+              "'Toda mentira que contamos cria uma dívida com a verdade.'",
+              "'A verdade é relativa.'",
+              "'A verdade é dolorosa.'",
+              "'A verdade está lá fora.'"
+            ],
+        "resposta": "'Toda mentira que contamos cria uma dívida com a verdade.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Pulp Fiction', qual o nome do hambúrguer que Jules Winnfield come?",
+            "opcoes": [
+              "Big Mac",
+              "Whopper",
+              "Royale with Cheese",
+              "Quarter Pounder"
+            ],
+            "resposta": "Royale with Cheese"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Qual a famosa frase de 'O Iluminado', dita por Jack Nicholson ao tentar arrombar a porta do banheiro?",
+            "opcoes": [
+              "'Aqui está o Johnny!'",
+              "'Eu sou a lenda.'",
+              "'Eu sou o rei do mundo.'",
+              "'Eu sou o Homem de Ferro.'"
+            ],
+            "resposta": "'Aqui está o Johnny!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Fabuloso Destino de Amélie Poulain', qual o nome do anão de jardim que Amélie leva em uma viagem para dar fotos a seu pai?",
+            "opcoes": [
+              "Anão Viajante",
+              "Anão de Jardim",
+              "Jardinete",
+              "Gnomo Viajante"
+            ],
+            "resposta": "Anão de Jardim"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Vingadores: Guerra Infinita', qual a frase de Thanos que se tornou um meme e um símbolo de sua determinação?",
+            "opcoes": [
+              "'Eu sou inevitável.'",
+              "'A realidade pode ser o que eu quiser.'",
+              "'O universo está em desequilíbrio.'",
+              "'Eu sou o futuro.'"
+            ],
+            "resposta": "'Eu sou inevitável.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'La Casa de Papel', qual a frase que o Professor usa para motivar sua equipe?",
+            "opcoes": [
+              "'Nossa única regra é não ter regras.'",
+              "'Nossa vida não é nossa.'",
+              "'Nós somos a resistência.'",
+              "'Nossa única arma é o conhecimento.'"
+            ],
+            "resposta": "'Nós somos a resistência.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Grande Lebowski', qual a frase do Dude sobre o tapete que foi urinado?",
+            "opcoes": [
+              "'Este tapete realmente uniu a sala.'",
+              "'Este tapete vai ser o fim da minha vida.'",
+              "'Este tapete é a única coisa que me resta.'",
+              "'Este tapete é minha vida.'"
+            ],
+            "resposta": "'Este tapete realmente uniu a sala.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Clube dos Cinco', qual a frase que o personagem Bender diz para a diretora?",
+            "opcoes": [
+              "'Você não pode me dizer o que fazer.'",
+              "'Você não sabe o que é a vida.'",
+              "'Nós somos diferentes, mas somos iguais.'",
+              "'Nós somos o Clube dos Cinco.'"
+            ],
+            "resposta": "'Nós somos diferentes, mas somos iguais.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Qual a famosa frase de 'Scarface', dita por Tony Montana ao se sentir invencível?",
+            "opcoes": [
+              "'O mundo é seu.'",
+              "'Diga olá para o meu amiguinho!'",
+              "'Dinheiro não compra felicidade.'",
+              "'O poder está em minhas mãos.'"
+            ],
+            "resposta": "'Diga olá para o meu amiguinho!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Qual a frase de Tyler Durden em 'Clube da Luta' sobre o que a humanidade precisa?",
+            "opcoes": [
+              "'Nós precisamos de mais amor.'",
+              "'Nós precisamos de mais guerra.'",
+              "'Nós precisamos de mais dor.'",
+              "'Nós precisamos de mais regras.'"
+            ],
+            "resposta": "'Nós precisamos de mais dor.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Vikings', qual a frase de Ragnar Lothbrok para seu filho Bjorn?",
+            "opcoes": [
+              "'Um homem sábio não confia em ninguém.'",
+              "'A força está dentro de você.'",
+              "'A curiosidade me dá asas.'",
+              "'O poder é tudo.'"
+            ],
+            "resposta": "'A curiosidade me dá asas.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'O Cavaleiro das Trevas', qual a famosa frase de Harvey Dent sobre os heróis?",
+            "opcoes": [
+              "'Você morre um herói ou vive o suficiente para se tornar o vilão.'",
+              "'O mundo não precisa de heróis.'",
+              "'Os heróis são feitos de coragem.'",
+              "'Os heróis são feitos de sacrifício.'"
+            ],
+            "resposta": "'Você morre um herói ou vive o suficiente para se tornar o vilão.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Qual a frase de Hannibal Lecter em 'O Silêncio dos Inocentes' sobre a sua mente?",
+            "opcoes": [
+              "'Minha mente é meu único reino.'",
+              "'Minha mente é uma fortaleza.'",
+              "'Minha mente é um lugar perigoso.'",
+              "'Minha mente é uma caixa de surpresas.'"
+            ],
+            "resposta": "'Minha mente é meu único reino.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'The Office', qual a frase de Michael Scott sobre a vida?",
+            "opcoes": [
+              "'A vida é um jogo de sorte.'",
+              "'A vida é um mar de oportunidades.'",
+              "'A vida é uma jornada difícil.'",
+              "'A vida é como um jogo de xadrez.'"
+            ],
+            "resposta": "'A vida é um jogo de sorte.'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Em 'Laranja Mecânica', qual a frase que Alex DeLarge usa para se referir à violência?",
+            "opcoes": [
+              "'Que dia glorioso!'",
+              "'Que mundo lindo!'",
+              "'Que espetáculo!'",
+              "'Que show de horrores!'"
+            ],
+            "resposta": "'Que dia glorioso!'"
+          },
+          {
+            "categoria": "Filmes e séries",
+            "pergunta": "Na série 'Friends', qual a frase que Ross Geller diz a Rachel Green?",
+            "opcoes": [
+              "'Nós somos o oposto um do outro.'",
+              "'Nós somos um casal.'",
+              "'Nós somos um time.'",
+              "'Nós somos um destino.'"
+            ],
+            "resposta": "'Nós somos um casal.'"
+          }
+        ]
+      }
