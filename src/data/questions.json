@@ -1,0 +1,1472 @@
+[
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a capital do Canadá?",
+      "opcoes": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "resposta": "Ottawa"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a fórmula química da água?",
+      "opcoes": ["H2O", "CO2", "O2", "NaCl"],
+      "resposta": "H2O"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Em qual país a Pizza foi inventada?",
+      "opcoes": ["Grécia", "Itália", "França", "Espanha"],
+      "resposta": "Itália"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o autor da teoria da relatividade?",
+      "opcoes": ["Isaac Newton", "Galileu Galilei", "Albert Einstein", "Stephen Hawking"],
+      "resposta": "Albert Einstein"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quantos lados tem um pentágono?",
+      "opcoes": ["3", "4", "5", "6"],
+      "resposta": "5"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o metal mais abundante na crosta terrestre?",
+      "opcoes": ["Ferro", "Ouro", "Alumínio", "Prata"],
+      "resposta": "Alumínio"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da capital do Egito?",
+      "opcoes": ["Alexandria", "Cairo", "Luxor", "Gizé"],
+      "resposta": "Cairo"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a capital da Rússia?",
+      "opcoes": ["São Petersburgo", "Moscou", "Kiev", "Minsk"],
+      "resposta": "Moscou"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é o principal componente do ar que respiramos?",
+      "opcoes": ["Oxigênio", "Nitrogênio", "Dióxido de carbono", "Hidrogênio"],
+      "resposta": "Nitrogênio"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o maior país da América do Sul?",
+      "opcoes": ["Argentina", "Brasil", "Colômbia", "Chile"],
+      "resposta": "Brasil"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem pintou 'A Noite Estrelada'?",
+      "opcoes": ["Claude Monet", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+      "resposta": "Vincent van Gogh"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual animal é o maior do mundo?",
+      "opcoes": ["Elefante", "Baleia azul", "Girafa", "Tubarão-baleia"],
+      "resposta": "Baleia azul"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da estrela mais próxima da Terra?",
+      "opcoes": ["Alpha Centauri", "Sirius", "Sol", "Proxima Centauri"],
+      "resposta": "Sol"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o maior deserto do mundo, em termos de área?",
+      "opcoes": ["Saara", "Antártida", "Arábia", "Gobi"],
+      "resposta": "Antártida"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do famoso escritor de 'Dom Quixote'?",
+      "opcoes": ["Miguel de Cervantes", "William Shakespeare", "Victor Hugo", "Gabriel García Márquez"],
+      "resposta": "Miguel de Cervantes"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a capital da China?",
+      "opcoes": ["Xangai", "Pequim", "Hong Kong", "Wuhan"],
+      "resposta": "Pequim"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do instrumento musical que se toca com o arco?",
+      "opcoes": ["Guitarra", "Violino", "Bateria", "Piano"],
+      "resposta": "Violino"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a capital da Alemanha?",
+      "opcoes": ["Hamburgo", "Munique", "Berlim", "Frankfurt"],
+      "resposta": "Berlim"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da principal pirâmide de Gizé, no Egito?",
+      "opcoes": ["Pirâmide de Queóps", "Pirâmide de Quéfren", "Pirâmide de Miquerinos", "Pirâmide de Djoser"],
+      "resposta": "Pirâmide de Queóps"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do maior animal terrestre?",
+      "opcoes": ["Elefante africano", "Girafa", "Rinoceronte branco", "Urso-pardo"],
+      "resposta": "Elefante africano"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do inventor do telefone?",
+      "opcoes": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Graham Bell"],
+      "resposta": "Alexander Graham Bell"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual é a cidade conhecida como 'A Cidade da Luz'?",
+      "opcoes": ["Londres", "Paris", "Nova York", "Roma"],
+      "resposta": "Paris"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quantos planetas existem no sistema solar?",
+      "opcoes": ["8", "9", "7", "10"],
+      "resposta": "8"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da moeda oficial do Japão?",
+      "opcoes": ["Yuan", "Won", "Iene", "Dólar"],
+      "resposta": "Iene"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "opcoes": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+      "resposta": "George Washington"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do maior rio do mundo em extensão?",
+      "opcoes": ["Rio Nilo", "Rio Amazonas", "Rio Yangtze", "Rio Mississipi"],
+      "resposta": "Rio Nilo"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a capital da Espanha?",
+      "opcoes": ["Barcelona", "Madri", "Sevilha", "Valência"],
+      "resposta": "Madri"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da galáxia mais próxima da Via Láctea?",
+      "opcoes": ["Triângulo", "Andrômeda", "Cigarro", "Buraco Negro"],
+      "resposta": "Andrômeda"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Em qual país se localiza a Grande Muralha?",
+      "opcoes": ["Japão", "China", "Coreia do Sul", "Mongólia"],
+      "resposta": "China"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do instrumento musical mais tocado no mundo?",
+      "opcoes": ["Guitarra", "Piano", "Violino", "Ukulele"],
+      "resposta": "Guitarra"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do famoso arquipélago no Equador conhecido por sua vida selvagem única?",
+      "opcoes": ["Ilhas Malvinas", "Ilhas Galápagos", "Ilhas Canárias", "Ilhas Fiji"],
+      "resposta": "Ilhas Galápagos"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do menor osso do corpo humano?",
+      "opcoes": ["Estribo", "Martelo", "Bigorna", "Fêmur"],
+      "resposta": "Estribo"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Quem foi o explorador que primeiro circum-navegou a Terra?",
+      "opcoes": ["Cristóvão Colombo", "Vasco da Gama", "Fernão de Magalhães", "Marco Polo"],
+      "resposta": "Fernão de Magalhães"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da famosa escultura de Michelangelo, 'Davi'?",
+      "opcoes": ["A Pietà", "A Última Ceia", "Moisés", "Davi"],
+      "resposta": "Davi"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a capital da Argentina?",
+      "opcoes": ["Córdoba", "Buenos Aires", "Rosário", "Mendoza"],
+      "resposta": "Buenos Aires"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do elemento químico com o símbolo 'Au'?",
+      "opcoes": ["Prata", "Cobre", "Ouro", "Ferro"],
+      "resposta": "Ouro"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da teoria que explica a origem do universo?",
+      "opcoes": ["Teoria da Evolução", "Teoria da Relatividade", "Teoria do Big Bang", "Teoria das Cordas"],
+      "resposta": "Teoria do Big Bang"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Em qual país se localiza o famoso Taj Mahal?",
+      "opcoes": ["China", "Egito", "Índia", "Japão"],
+      "resposta": "Índia"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a capital da Austrália?",
+      "opcoes": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "resposta": "Canberra"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do famoso cientista que descobriu a gravidade?",
+      "opcoes": ["Albert Einstein", "Stephen Hawking", "Isaac Newton", "Galileu Galilei"],
+      "resposta": "Isaac Newton"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do famoso vulcão que destruiu Pompeia?",
+      "opcoes": ["Monte Fuji", "Monte Vesúvio", "Monte Etna", "Krakatoa"],
+      "resposta": "Monte Vesúvio"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do famoso físico teórico que escreveu 'Uma Breve História do Tempo'?",
+      "opcoes": ["Albert Einstein", "Stephen Hawking", "Nikola Tesla", "Isaac Newton"],
+      "resposta": "Stephen Hawking"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do maior mamífero terrestre?",
+      "opcoes": ["Elefante africano", "Rinoceronte branco", "Girafa", "Hipopótamo"],
+      "resposta": "Elefante africano"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual a capital da Suíça?",
+      "opcoes": ["Zurique", "Genebra", "Berna", "Lausanne"],
+      "resposta": "Berna"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do maior órgão do corpo humano?",
+      "opcoes": ["Coração", "Fígado", "Pele", "Cérebro"],
+      "resposta": "Pele"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do famoso ditador da Alemanha durante a Segunda Guerra Mundial?",
+      "opcoes": ["Benito Mussolini", "Joseph Stalin", "Adolf Hitler", "Mao Zedong"],
+      "resposta": "Adolf Hitler"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do processo de transformação de larvas em insetos adultos?",
+      "opcoes": ["Fotossíntese", "Metamorfose", "Evolução", "Hibridismo"],
+      "resposta": "Metamorfose"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do maior oceano do mundo?",
+      "opcoes": ["Oceano Atlântico", "Oceano Índico", "Oceano Pacífico", "Oceano Ártico"],
+      "resposta": "Oceano Pacífico"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome do maior mamífero marinho?",
+      "opcoes": ["Baleia Orca", "Baleia Jubarte", "Baleia Azul", "Golfinho"],
+      "resposta": "Baleia Azul"
+    },
+    {
+      "categoria": "Conhecimentos gerais",
+      "pergunta": "Qual o nome da famosa cidade italiana conhecida pelos seus canais?",
+      "opcoes": ["Roma", "Veneza", "Milão", "Florença"],
+      "resposta": "Veneza"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme da Marvel de 2023 que apresenta o vilão Kang?",
+      "opcoes": ["Homem-Formiga e a Vespa: Quantumania", "Vingadores: Ultimato", "Doutor Estranho no Multiverso da Loucura", "Thor: Amor e Trovão"],
+      "resposta": "Homem-Formiga e a Vespa: Quantumania"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual a famosa música de abertura da série 'Friends'?",
+      "opcoes": ["I'll Be There for You", "Smelly Cat", "A Kind of Magic", "Bohemian Rhapsody"],
+      "resposta": "I'll Be There for You"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do ator que interpretou o protagonista no filme 'Oppenheimer'?",
+      "opcoes": ["Robert Downey Jr.", "Cillian Murphy", "Matt Damon", "Kenneth Branagh"],
+      "resposta": "Cillian Murphy"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual filme da A24 de 2022 ganhou o Oscar de Melhor Filme?",
+      "opcoes": ["A Baleia", "Tudo em Todo Lugar ao Mesmo Tempo", "Os Banshees de Inisherin", "Triângulo da Tristeza"],
+      "resposta": "Tudo em Todo Lugar ao Mesmo Tempo"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "No filme 'Barbie', qual a atriz que interpreta a personagem principal?",
+      "opcoes": ["Anne Hathaway", "Margot Robbie", "Emma Stone", "Saoirse Ronan"],
+      "resposta": "Margot Robbie"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série de TV baseada em um famoso jogo de vídeo game com zombies e 'Clickers'?",
+      "opcoes": ["The Walking Dead", "The Last of Us", "Resident Evil", "Chernobyl"],
+      "resposta": "The Last of Us"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual ator interpretou o personagem 'Wolverine' em quase todos os filmes dos X-Men?",
+      "opcoes": ["Hugh Jackman", "Chris Evans", "Ryan Reynolds", "Chris Pratt"],
+      "resposta": "Hugh Jackman"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série de terror da Netflix de Mike Flanagan, com foco em uma família assombrada?",
+      "opcoes": ["A Maldição da Residência Hill", "A Maldição da Mansão Bly", "Midnight Mass", "O Clube da Meia-Noite"],
+      "resposta": "A Maldição da Residência Hill"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de 1994 que conta a história de dois assassinos de aluguel e um boxeador?",
+      "opcoes": ["Pulp Fiction", "Taxi Driver", "O Poderoso Chefão", "Era Uma Vez em Hollywood"],
+      "resposta": "Pulp Fiction"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da atriz que interpreta a personagem Wandinha Addams na série da Netflix?",
+      "opcoes": ["Jenna Ortega", "Emma Myers", "Gwendoline Christie", "Christina Ricci"],
+      "resposta": "Jenna Ortega"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da música famosa de 'Guardiões da Galáxia' que o Star-Lord sempre ouve?",
+      "opcoes": ["Come and Get Your Love", "Hooked on a Feeling", "Mr. Blue Sky", "O-o-h Child"],
+      "resposta": "Come and Get Your Love"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual filme da A24 sobre um jovem que trabalha como 'prostituta' em Nova York?",
+      "opcoes": ["The Florida Project", "Lady Bird", "Moonlight", "Deixa-me Viver"],
+      "resposta": "Moonlight"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série da Netflix sobre uma família de super-heróis disfuncionais?",
+      "opcoes": ["Umbrella Academy", "The Boys", "Titãs", "Inumanos"],
+      "resposta": "Umbrella Academy"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual ator interpretou o 'Pantera Negra' no Universo Cinematográfico da Marvel?",
+      "opcoes": ["Michael B. Jordan", "Chadwick Boseman", "Daniel Kaluuya", "Winston Duke"],
+      "resposta": "Chadwick Boseman"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do famoso filme de Steven Spielberg sobre dinossauros recriados geneticamente?",
+      "opcoes": ["O Mundo Perdido", "Jurassic Park", "Ameaça Jurássica", "Dinossauro"],
+      "resposta": "Jurassic Park"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da trilogia de ficção científica em que Neo é o protagonista?",
+      "opcoes": ["Star Wars", "Matrix", "O Senhor dos Anéis", "Blade Runner"],
+      "resposta": "Matrix"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual a famosa frase de 'O Exterminador do Futuro'?",
+      "opcoes": ["Eu estarei de volta", "Hasta la vista, baby", "May the force be with you", "I'll be back"],
+      "resposta": "I'll be back"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual filme da A24 sobre um jovem que descobre o poder de invocar uma entidade maligna?",
+      "opcoes": ["A Fera", "Corpo", "Fale Comigo", "A Bruxa"],
+      "resposta": "Fale Comigo"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do ator que interpretou o 'Batman' na trilogia 'O Cavaleiro das Trevas'?",
+      "opcoes": ["Robert Pattinson", "Christian Bale", "Ben Affleck", "Michael Keaton"],
+      "resposta": "Christian Bale"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série de TV sobre um professor de química que vira um traficante de metanfetamina?",
+      "opcoes": ["Ozark", "Narcos", "Breaking Bad", "Better Call Saul"],
+      "resposta": "Breaking Bad"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme da Disney de 2023 sobre uma sereia negra, interpretada por Halle Bailey?",
+      "opcoes": ["A Pequena Sereia", "Moana", "Frozen", "Encanto"],
+      "resposta": "A Pequena Sereia"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual a música de 'Shrek' que se tornou um sucesso no TikTok em 2023?",
+      "opcoes": ["All Star", "Hallelujah", "I'm a Believer", "Accidentally in Love"],
+      "resposta": "All Star"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme que ganhou o Oscar de Melhor Filme em 2023, dirigido por Daniel Kwan e Daniel Scheinert?",
+      "opcoes": ["A Baleia", "Tudo em Todo o Lugar ao Mesmo Tempo", "Os Banshees de Inisherin", "Triângulo da Tristeza"],
+      "resposta": "Tudo em Todo o Lugar ao Mesmo Tempo"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do ator que interpretou 'O Máscara'?",
+      "opcoes": ["Jim Carrey", "Jack Nicholson", "Robin Williams", "Ben Stiller"],
+      "resposta": "Jim Carrey"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual a famosa frase de 'O Senhor dos Anéis'?",
+      "opcoes": ["You shall not pass!", "One ring to rule them all", "My precious", "I'm a believer"],
+      "resposta": "You shall not pass!"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de terror de 2023 que se passa em uma cabana isolada e apresenta um assassino com uma máscara de urso?",
+      "opcoes": ["Urso do Mal", "Urso Branco", "Ursinho Pooh: Sangue e Mel", "O Urso da Montanha"],
+      "resposta": "Ursinho Pooh: Sangue e Mel"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do ator que interpreta o 'Homem-Aranha' na trilogia mais recente?",
+      "opcoes": ["Tobey Maguire", "Andrew Garfield", "Tom Holland", "Chris Pratt"],
+      "resposta": "Tom Holland"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de Christopher Nolan de 2010 sobre o roubo de ideias?",
+      "opcoes": ["A Origem", "Interestelar", "Batman: O Cavaleiro das Trevas", "Dunkirk"],
+      "resposta": "A Origem"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série de TV sobre a vida de um serial killer em Miami?",
+      "opcoes": ["Hannibal", "Mindhunter", "Dexter", "The Fall"],
+      "resposta": "Dexter"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme da Marvel de 2023 que apresenta o 'Doutor Destino'?",
+      "opcoes": ["Vingadores: Guerra Infinita", "Homem-Formiga e a Vespa: Quantumania", "Pantera Negra: Wakanda para Sempre", "Guardiões da Galáxia Vol. 3"],
+      "resposta": "Homem-Formiga e a Vespa: Quantumania"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da atriz que interpreta a personagem 'Eleven' na série 'Stranger Things'?",
+      "opcoes": ["Winona Ryder", "Millie Bobby Brown", "Sadie Sink", "Maya Hawke"],
+      "resposta": "Millie Bobby Brown"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de 1999 que se passa em um clube de luta subterrâneo?",
+      "opcoes": ["Pulp Fiction", "Clube da Luta", "Matrix", "O Sexto Sentido"],
+      "resposta": "Clube da Luta"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da famosa música da cena de dança do filme 'A Morte do Demônio' de 2023?",
+      "opcoes": ["Evil Dead Rise", "Don't You (Forget About Me)", "The Final Countdown", "Take on Me"],
+      "resposta": "Evil Dead Rise"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do ator que interpretou 'James Bond' em 'Casino Royale'?",
+      "opcoes": ["Daniel Craig", "Pierce Brosnan", "Sean Connery", "Roger Moore"],
+      "resposta": "Daniel Craig"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série da Netflix sobre um assassino de aluguel que sofre de amnésia?",
+      "opcoes": ["Barry", "Mr. Robot", "The Umbrella Academy", "Ozark"],
+      "resposta": "Barry"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual filme da Marvel de 2023 foi o primeiro a ser lançado com o novo vilão Kang?",
+      "opcoes": ["Homem-Formiga e a Vespa: Quantumania", "Guardiões da Galáxia Vol. 3", "As Marvels", "Thor: Amor e Trovão"],
+      "resposta": "Homem-Formiga e a Vespa: Quantumania"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do diretor do filme 'Oppenheimer'?",
+      "opcoes": ["Quentin Tarantino", "Martin Scorsese", "Christopher Nolan", "Denis Villeneuve"],
+      "resposta": "Christopher Nolan"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme da A24 de 2017 sobre um jovem que vive em um motel?",
+      "opcoes": ["A Bruxa", "The Florida Project", "Hereditário", "Midsommar"],
+      "resposta": "The Florida Project"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série da Netflix de 2023 sobre um apocalipse de zumbis?",
+      "opcoes": ["The Last of Us", "Kingdom", "All of Us Are Dead", "Sweet Tooth"],
+      "resposta": "All of Us Are Dead"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do famoso filme de Stanley Kubrick sobre uma equipe que viaja para o espaço?",
+      "opcoes": ["2001: Uma Odisseia no Espaço", "Interestelar", "Gravidade", "O Iluminado"],
+      "resposta": "2001: Uma Odisseia no Espaço"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do ator que interpretou 'O Exterminador do Futuro'?",
+      "opcoes": ["Sylvester Stallone", "Arnold Schwarzenegger", "Bruce Willis", "Jean-Claude Van Damme"],
+      "resposta": "Arnold Schwarzenegger"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série de TV de 'Game of Thrones' que é um spin-off?",
+      "opcoes": ["A Casa do Dragão", "O Senhor dos Anéis: Os Anéis de Poder", "Vikings", "The Witcher"],
+      "resposta": "A Casa do Dragão"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme da Pixar de 2023 sobre uma família de elementais?",
+      "opcoes": ["Soul", "Luca", "Lightyear", "Elementos"],
+      "resposta": "Elementos"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual a famosa frase do filme 'O Sexto Sentido'?",
+      "opcoes": ["I see dead people", "I'll be back", "Houston, we have a problem", "My precious"],
+      "resposta": "I see dead people"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de terror de 2023 que se passa em um festival de verão?",
+      "opcoes": ["Midsommar", "O Farol", "Hereditário", "A Bruxa"],
+      "resposta": "Midsommar"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série da Netflix sobre um assalto ao Banco da Espanha?",
+      "opcoes": ["La Casa de Papel", "Lupin", "O Mistério do Desaparecimento", "Elite"],
+      "resposta": "La Casa de Papel"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de 2023 que apresenta um urso que usa drogas?",
+      "opcoes": ["O Urso do Mal", "O Urso do Cocaine", "O Urso da Cocaína", "Urso de Pelúcia"],
+      "resposta": "O Urso da Cocaína"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do ator que interpretou o 'Homem de Ferro'?",
+      "opcoes": ["Chris Evans", "Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+      "resposta": "Robert Downey Jr."
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de 1975 de Steven Spielberg sobre um tubarão gigante?",
+      "opcoes": ["O Jaws", "Tubarão", "Tubarão Branco", "Jaws"],
+      "resposta": "Tubarão"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série de TV sobre a vida da Família Real Britânica?",
+      "opcoes": ["The Crown", "Downton Abbey", "Peaky Blinders", "Bridgerton"],
+      "resposta": "The Crown"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme de 2023 que é um live-action de 'A Pequena Sereia'?",
+      "opcoes": ["A Pequena Sereia", "A Bela e a Fera", "O Rei Leão", "Aladdin"],
+      "resposta": "A Pequena Sereia"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da atriz que interpreta a personagem 'Katniss Everdeen' em 'Jogos Vorazes'?",
+      "opcoes": ["Emma Watson", "Jennifer Lawrence", "Kristen Stewart", "Shailene Woodley"],
+      "resposta": "Jennifer Lawrence"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome da série de TV baseada nos livros de 'O Senhor dos Anéis'?",
+      "opcoes": ["A Casa do Dragão", "Vikings", "The Witcher", "O Senhor dos Anéis: Os Anéis de Poder"],
+      "resposta": "O Senhor dos Anéis: Os Anéis de Poder"
+    },
+    {
+      "categoria": "Filmes e séries",
+      "pergunta": "Qual o nome do filme da Marvel de 2023 que se passa em 'Wakanda'?",
+      "opcoes": ["Pantera Negra: Wakanda para Sempre", "Pantera Negra", "Vingadores: Guerra Infinita", "Homem-Aranha: Sem Volta para Casa"],
+      "resposta": "Pantera Negra: Wakanda para Sempre"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro que inspirou o filme 'Barbie'?",
+      "opcoes": ["Uma Casa de Bonecas", "Barbie: The Album", "As Aventuras de Barbie", "Não há um livro, foi baseado na boneca"],
+      "resposta": "Não há um livro, foi baseado na boneca"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de 2023 de Olivia Rodrigo?",
+      "opcoes": ["SOUR", "GUTS", "Drivers License", "deja vu"],
+      "resposta": "GUTS"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual a famosa música de Taylor Swift que fala sobre a sua idade e maturidade?",
+      "opcoes": ["Shake It Off", "Blank Space", "22", "Lover"],
+      "resposta": "22"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Stephen King que virou filme com o mesmo nome?",
+      "opcoes": ["A Coisa", "O Iluminado", "It: A Coisa", "Carrie, a Estranha"],
+      "resposta": "It: A Coisa"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou o álbum 'The Dark Side of the Moon'?",
+      "opcoes": ["Queen", "Led Zeppelin", "Pink Floyd", "The Beatles"],
+      "resposta": "Pink Floyd"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro infantil de Roald Dahl sobre uma menina com poderes telecinéticos?",
+      "opcoes": ["Matilda", "A Fantástica Fábrica de Chocolate", "O BFG", "As Bruxas"],
+      "resposta": "Matilda"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Beyoncé de 2022?",
+      "opcoes": ["Lemonade", "Renaissance", "Dangerously in Love", "I Am... Sasha Fierce"],
+      "resposta": "Renaissance"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de George Orwell que critica o totalitarismo?",
+      "opcoes": ["1984", "A Revolução dos Bichos", "Fahrenheit 451", "Admirável Mundo Novo"],
+      "resposta": "1984"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de 'Bohemian Rhapsody' do Queen?",
+      "opcoes": ["Don't Stop Me Now", "We Will Rock You", "Bohemian Rhapsody", "Somebody to Love"],
+      "resposta": "Bohemian Rhapsody"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Isaac Asimov sobre robôs e inteligência artificial?",
+      "opcoes": ["Eu, Robô", "O Guia do Mochileiro das Galáxias", "Duna", "Neuromancer"],
+      "resposta": "Eu, Robô"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do cantor famoso conhecido como 'Rei do Pop'?",
+      "opcoes": ["Elvis Presley", "Michael Jackson", "Freddie Mercury", "Prince"],
+      "resposta": "Michael Jackson"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Taylor Swift que tem a música 'Shake It Off'?",
+      "opcoes": ["1989", "Red", "Lover", "Fearless"],
+      "resposta": "1989"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Jane Austen que se tornou um filme?",
+      "opcoes": ["Orgulho e Preconceito", "Razão e Sensibilidade", "Emma", "Mansfield Park"],
+      "resposta": "Orgulho e Preconceito"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou a música 'Stairway to Heaven'?",
+      "opcoes": ["Led Zeppelin", "The Beatles", "The Rolling Stones", "Queen"],
+      "resposta": "Led Zeppelin"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Arthur C. Clarke que inspirou o filme '2001: Uma Odisseia no Espaço'?",
+      "opcoes": ["O Fim da Infância", "Encontro com Rama", "2001: Uma Odisseia no Espaço", "A Cidade e as Estrelas"],
+      "resposta": "2001: Uma Odisseia no Espaço"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Adele que tem a música 'Hello'?",
+      "opcoes": ["19", "21", "25", "30"],
+      "resposta": "25"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Frank Herbert que se tornou um filme recente?",
+      "opcoes": ["Duna", "Neuromancer", "O Guia do Mochileiro das Galáxias", "Fahrenheit 451"],
+      "resposta": "Duna"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do cantor famoso conhecido como 'Rei do Rock'?",
+      "opcoes": ["Elvis Presley", "Michael Jackson", "Chuck Berry", "Little Richard"],
+      "resposta": "Elvis Presley"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Agatha Christie que se passa em um trem?",
+      "opcoes": ["Assassinato no Expresso do Oriente", "E Não Sobrou Nenhum", "O Assassinato de Roger Ackroyd", "Um Crime Adormecido"],
+      "resposta": "Assassinato no Expresso do Oriente"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou a música 'Smells Like Teen Spirit'?",
+      "opcoes": ["Metallica", "Guns N' Roses", "Nirvana", "Pearl Jam"],
+      "resposta": "Nirvana"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de terror de Stephen King que virou filme com o mesmo nome?",
+      "opcoes": ["O Iluminado", "It: A Coisa", "Carrie, a Estranha", "O Cemitério"],
+      "resposta": "O Iluminado"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Kendrick Lamar que ganhou o prêmio Pulitzer?",
+      "opcoes": ["To Pimp a Butterfly", "DAMN.", "good kid, m.A.A.d city", "Mr. Morale & The Big Steppers"],
+      "resposta": "DAMN."
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção de George Orwell sobre a vida em uma fazenda?",
+      "opcoes": ["1984", "A Revolução dos Bichos", "Fahrenheit 451", "Admirável Mundo Novo"],
+      "resposta": "A Revolução dos Bichos"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Ed Sheeran que tem a música 'Shape of You'?",
+      "opcoes": ["+", "x", "÷", "="],
+      "resposta": "÷"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de J.K. Rowling que é o primeiro da série 'Harry Potter'?",
+      "opcoes": ["Harry Potter e a Câmara Secreta", "Harry Potter e a Pedra Filosofal", "Harry Potter e o Prisioneiro de Azkaban", "Harry Potter e o Cálice de Fogo"],
+      "resposta": "Harry Potter e a Pedra Filosofal"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou a música 'Come as You Are'?",
+      "opcoes": ["Nirvana", "Pearl Jam", "Soundgarden", "Alice in Chains"],
+      "resposta": "Nirvana"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de John Steinbeck sobre a Grande Depressão?",
+      "opcoes": ["As Vinhas da Ira", "A Leste do Éden", "Ratos e Homens", "O Poderoso Chefão"],
+      "resposta": "As Vinhas da Ira"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Beyoncé que ela lançou de surpresa em 2013?",
+      "opcoes": ["4", "Lemonade", "Beyoncé", "Renaissance"],
+      "resposta": "Beyoncé"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção de Suzanne Collins que se tornou um filme?",
+      "opcoes": ["A Esperança", "Jogos Vorazes", "Em Chamas", "A Cantiga dos Pássaros e das Serpentes"],
+      "resposta": "Jogos Vorazes"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Michael Jackson que tem o famoso 'moonwalk'?",
+      "opcoes": ["Thriller", "Billie Jean", "Beat It", "Smooth Criminal"],
+      "resposta": "Billie Jean"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de José Saramago sobre a cegueira coletiva?",
+      "opcoes": ["O Evangelho Segundo Jesus Cristo", "A Caverna", "Ensaio sobre a Cegueira", "Memorial do Convento"],
+      "resposta": "Ensaio sobre a Cegueira"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Adele que tem a música 'Rolling in the Deep'?",
+      "opcoes": ["19", "21", "25", "30"],
+      "resposta": "21"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de romance de Nicholas Sparks?",
+      "opcoes": ["A Culpa é das Estrelas", "Diário de uma Paixão", "O Lado Bom da Vida", "O Diário de Anne Frank"],
+      "resposta": "Diário de uma Paixão"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Ed Sheeran que foi lançada no álbum 'x'?",
+      "opcoes": ["Thinking Out Loud", "Shape of You", "Castle on the Hill", "Perfect"],
+      "resposta": "Thinking Out Loud"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Philip K. Dick que virou filme com o mesmo nome?",
+      "opcoes": ["Androides Sonham com Ovelhas Elétricas?", "O Homem do Castelo Alto", "Blade Runner", "Ubik"],
+      "resposta": "Androides Sonham com Ovelhas Elétricas?"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Beyoncé que tem a música 'Single Ladies'?",
+      "opcoes": ["4", "Lemonade", "Renaissance", "I Am... Sasha Fierce"],
+      "resposta": "I Am... Sasha Fierce"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de romance de E. L. James que virou filme?",
+      "opcoes": ["Cinquenta Tons de Cinza", "Crepúsculo", "A Culpa é das Estrelas", "A Cabana"],
+      "resposta": "Cinquenta Tons de Cinza"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Lady Gaga que foi lançada no filme 'Nasce uma Estrela'?",
+      "opcoes": ["Shallow", "Bad Romance", "Poker Face", "Born This Way"],
+      "resposta": "Shallow"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção de George R.R. Martin que inspirou a série 'Game of Thrones'?",
+      "opcoes": ["A Guerra dos Tronos", "O Cavaleiro dos Sete Reinos", "O Senhor dos Anéis", "As Crônicas de Gelo e Fogo"],
+      "resposta": "A Guerra dos Tronos"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Harry Styles que tem a música 'As It Was'?",
+      "opcoes": ["Fine Line", "Harry's House", "Harry Styles", "Watermelon Sugar"],
+      "resposta": "Harry's House"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de romance de Jojo Moyes que virou filme?",
+      "opcoes": ["Como Eu Era Antes de Você", "Um Porto Seguro", "A Culpa é das Estrelas", "O Diário de uma Paixão"],
+      "resposta": "Como Eu Era Antes de Você"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Rosalía que foi lançado em 2022?",
+      "opcoes": ["Los Ángeles", "El Mal Querer", "Motomami", "A Palé"],
+      "resposta": "Motomami"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de fantasia de Sarah J. Maas que se tornou um sucesso mundial?",
+      "opcoes": ["A Corte de Espinhos e Rosas", "Trono de Vidro", "Cidade da Lua Crescente", "Corte de Névoa e Fúria"],
+      "resposta": "A Corte de Espinhos e Rosas"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Dua Lipa que foi lançada no álbum 'Future Nostalgia'?",
+      "opcoes": ["Don't Start Now", "Physical", "New Rules", "Levitating"],
+      "resposta": "Levitating"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Colleen Hoover que virou febre no TikTok e será adaptado para o cinema?",
+      "opcoes": ["É Assim que Acaba", "Verity", "A Razão do Amor", "Novembro, 9"],
+      "resposta": "É Assim que Acaba"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Taylor Swift que fala sobre a sua idade e maturidade?",
+      "opcoes": ["Shake It Off", "Blank Space", "22", "Lover"],
+      "resposta": "22"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Stephen King que virou filme com o mesmo nome?",
+      "opcoes": ["A Coisa", "O Iluminado", "It: A Coisa", "Carrie, a Estranha"],
+      "resposta": "It: A Coisa"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou o álbum 'The Dark Side of the Moon'?",
+      "opcoes": ["Queen", "Led Zeppelin", "Pink Floyd", "The Beatles"],
+      "resposta": "Pink Floyd"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro infantil de Roald Dahl sobre uma menina com poderes telecinéticos?",
+      "opcoes": ["Matilda", "A Fantástica Fábrica de Chocolate", "O BFG", "As Bruxas"],
+      "resposta": "Matilda"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Beyoncé de 2022?",
+      "opcoes": ["Lemonade", "Renaissance", "Dangerously in Love", "I Am... Sasha Fierce"],
+      "resposta": "Renaissance"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de George Orwell que critica o totalitarismo?",
+      "opcoes": ["1984", "A Revolução dos Bichos", "Fahrenheit 451", "Admirável Mundo Novo"],
+      "resposta": "1984"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de 'Bohemian Rhapsody' do Queen?",
+      "opcoes": ["Don't Stop Me Now", "We Will Rock You", "Bohemian Rhapsody", "Somebody to Love"],
+      "resposta": "Bohemian Rhapsody"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Isaac Asimov sobre robôs e inteligência artificial?",
+      "opcoes": ["Eu, Robô", "O Guia do Mochileiro das Galáxias", "Duna", "Neuromancer"],
+      "resposta": "Eu, Robô"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do cantor famoso conhecido como 'Rei do Pop'?",
+      "opcoes": ["Elvis Presley", "Michael Jackson", "Freddie Mercury", "Prince"],
+      "resposta": "Michael Jackson"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Taylor Swift que tem a música 'Shake It Off'?",
+      "opcoes": ["1989", "Red", "Lover", "Fearless"],
+      "resposta": "1989"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Jane Austen que se tornou um filme?",
+      "opcoes": ["Orgulho e Preconceito", "Razão e Sensibilidade", "Emma", "Mansfield Park"],
+      "resposta": "Orgulho e Preconceito"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou a música 'Stairway to Heaven'?",
+      "opcoes": ["Led Zeppelin", "The Beatles", "The Rolling Stones", "Queen"],
+      "resposta": "Led Zeppelin"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Arthur C. Clarke que inspirou o filme '2001: Uma Odisseia no Espaço'?",
+      "opcoes": ["O Fim da Infância", "Encontro com Rama", "2001: Uma Odisseia no Espaço", "A Cidade e as Estrelas"],
+      "resposta": "2001: Uma Odisseia no Espaço"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Adele que tem a música 'Hello'?",
+      "opcoes": ["19", "21", "25", "30"],
+      "resposta": "25"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Frank Herbert que se tornou um filme recente?",
+      "opcoes": ["Duna", "Neuromancer", "O Guia do Mochileiro das Galáxias", "Fahrenheit 451"],
+      "resposta": "Duna"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do cantor famoso conhecido como 'Rei do Rock'?",
+      "opcoes": ["Elvis Presley", "Michael Jackson", "Chuck Berry", "Little Richard"],
+      "resposta": "Elvis Presley"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Agatha Christie que se passa em um trem?",
+      "opcoes": ["Assassinato no Expresso do Oriente", "E Não Sobrou Nenhum", "O Assassinato de Roger Ackroyd", "Um Crime Adormecido"],
+      "resposta": "Assassinato no Expresso do Oriente"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou a música 'Smells Like Teen Spirit'?",
+      "opcoes": ["Metallica", "Guns N' Roses", "Nirvana", "Pearl Jam"],
+      "resposta": "Nirvana"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de terror de Stephen King que virou filme com o mesmo nome?",
+      "opcoes": ["O Iluminado", "It: A Coisa", "Carrie, a Estranha", "O Cemitério"],
+      "resposta": "O Iluminado"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Kendrick Lamar que ganhou o prêmio Pulitzer?",
+      "opcoes": ["To Pimp a Butterfly", "DAMN.", "good kid, m.A.A.d city", "Mr. Morale & The Big Steppers"],
+      "resposta": "DAMN."
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção de George Orwell sobre a vida em uma fazenda?",
+      "opcoes": ["1984", "A Revolução dos Bichos", "Fahrenheit 451", "Admirável Mundo Novo"],
+      "resposta": "A Revolução dos Bichos"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Ed Sheeran que tem a música 'Shape of You'?",
+      "opcoes": ["+", "x", "÷", "="],
+      "resposta": "÷"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de J.K. Rowling que é o primeiro da série 'Harry Potter'?",
+      "opcoes": ["Harry Potter e a Câmara Secreta", "Harry Potter e a Pedra Filosofal", "Harry Potter e o Prisioneiro de Azkaban", "Harry Potter e o Cálice de Fogo"],
+      "resposta": "Harry Potter e a Pedra Filosofal"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da banda de rock que lançou a música 'Come as You Are'?",
+      "opcoes": ["Nirvana", "Pearl Jam", "Soundgarden", "Alice in Chains"],
+      "resposta": "Nirvana"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de John Steinbeck sobre a Grande Depressão?",
+      "opcoes": ["As Vinhas da Ira", "A Leste do Éden", "Ratos e Homens", "O Poderoso Chefão"],
+      "resposta": "As Vinhas da Ira"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Beyoncé que ela lançou de surpresa em 2013?",
+      "opcoes": ["4", "Lemonade", "Beyoncé", "Renaissance"],
+      "resposta": "Beyoncé"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção de Suzanne Collins que se tornou um filme?",
+      "opcoes": ["A Esperança", "Jogos Vorazes", "Em Chamas", "A Cantiga dos Pássaros e das Serpentes"],
+      "resposta": "Jogos Vorazes"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Michael Jackson que tem o famoso 'moonwalk'?",
+      "opcoes": ["Thriller", "Billie Jean", "Beat It", "Smooth Criminal"],
+      "resposta": "Billie Jean"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de José Saramago sobre a cegueira coletiva?",
+      "opcoes": ["O Evangelho Segundo Jesus Cristo", "A Caverna", "Ensaio sobre a Cegueira", "Memorial do Convento"],
+      "resposta": "Ensaio sobre a Cegueira"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Adele que tem a música 'Rolling in the Deep'?",
+      "opcoes": ["19", "21", "25", "30"],
+      "resposta": "21"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de romance de Nicholas Sparks?",
+      "opcoes": ["A Culpa é das Estrelas", "Diário de uma Paixão", "O Lado Bom da Vida", "O Diário de Anne Frank"],
+      "resposta": "Diário de uma Paixão"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Ed Sheeran que foi lançada no álbum 'x'?",
+      "opcoes": ["Thinking Out Loud", "Shape of You", "Castle on the Hill", "Perfect"],
+      "resposta": "Thinking Out Loud"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção científica de Philip K. Dick que virou filme com o mesmo nome?",
+      "opcoes": ["Androides Sonham com Ovelhas Elétricas?", "O Homem do Castelo Alto", "Blade Runner", "Ubik"],
+      "resposta": "Androides Sonham com Ovelhas Elétricas?"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Beyoncé que tem a música 'Single Ladies'?",
+      "opcoes": ["4", "Lemonade", "Renaissance", "I Am... Sasha Fierce"],
+      "resposta": "I Am... Sasha Fierce"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de romance de E. L. James que virou filme?",
+      "opcoes": ["Cinquenta Tons de Cinza", "Crepúsculo", "A Culpa é das Estrelas", "A Cabana"],
+      "resposta": "Cinquenta Tons de Cinza"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Lady Gaga que foi lançada no filme 'Nasce uma Estrela'?",
+      "opcoes": ["Shallow", "Bad Romance", "Poker Face", "Born This Way"],
+      "resposta": "Shallow"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de ficção de George R.R. Martin que inspirou a série 'Game of Thrones'?",
+      "opcoes": ["A Guerra dos Tronos", "O Cavaleiro dos Sete Reinos", "O Senhor dos Anéis", "As Crônicas de Gelo e Fogo"],
+      "resposta": "A Guerra dos Tronos"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Harry Styles que tem a música 'As It Was'?",
+      "opcoes": ["Fine Line", "Harry's House", "Harry Styles", "Watermelon Sugar"],
+      "resposta": "Harry's House"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de romance de Jojo Moyes que virou filme?",
+      "opcoes": ["Como Eu Era Antes de Você", "Um Porto Seguro", "A Culpa é das Estrelas", "O Diário de uma Paixão"],
+      "resposta": "Como Eu Era Antes de Você"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do álbum de Rosalía que foi lançado em 2022?",
+      "opcoes": ["Los Ángeles", "El Mal Querer", "Motomami", "A Palé"],
+      "resposta": "Motomami"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de fantasia de Sarah J. Maas que se tornou um sucesso mundial?",
+      "opcoes": ["A Corte de Espinhos e Rosas", "Trono de Vidro", "Cidade da Lua Crescente", "Corte de Névoa e Fúria"],
+      "resposta": "A Corte de Espinhos e Rosas"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome da música de Dua Lipa que foi lançada no álbum 'Future Nostalgia'?",
+      "opcoes": ["Don't Start Now", "Physical", "New Rules", "Levitating"],
+      "resposta": "Levitating"
+    },
+    {
+      "categoria": "Livros e músicas",
+      "pergunta": "Qual o nome do livro de Colleen Hoover que virou febre no TikTok e será adaptado para o cinema?",
+      "opcoes": ["É Assim que Acaba", "Verity", "A Razão do Amor", "Novembro, 9"],
+      "resposta": "É Assim que Acaba"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em qual ano o Brasil sediou a Copa do Mundo pela segunda vez?",
+      "opcoes": ["1950", "1994", "2014", "2022"],
+      "resposta": "2014"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do ex-presidente dos EUA que foi assassinado em 1963?",
+      "opcoes": ["John F. Kennedy", "Abraham Lincoln", "Theodore Roosevelt", "Franklin D. Roosevelt"],
+      "resposta": "John F. Kennedy"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do filósofo grego que foi aluno de Platão e professor de Alexandre, o Grande?",
+      "opcoes": ["Sócrates", "Aristóteles", "Pitágoras", "Heródoto"],
+      "resposta": "Aristóteles"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do tratado que pôs fim à Primeira Guerra Mundial?",
+      "opcoes": ["Tratado de Tordesilhas", "Tratado de Versalhes", "Tratado de Paris", "Tratado de Westfália"],
+      "resposta": "Tratado de Versalhes"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da famosa lei brasileira que aboliu a escravidão?",
+      "opcoes": ["Lei Áurea", "Lei do Ventre Livre", "Lei dos Sexagenários", "Lei Eusébio de Queirós"],
+      "resposta": "Lei Áurea"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da ideologia política defendida por Adolf Hitler na Alemanha?",
+      "opcoes": ["Fascismo", "Nazismo", "Comunismo", "Socialismo"],
+      "resposta": "Nazismo"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em que ano a Revolução Russa teve seu início?",
+      "opcoes": ["1914", "1917", "1929", "1945"],
+      "resposta": "1917"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da principal via de comunicação e comércio entre a Europa e a Ásia na Idade Média?",
+      "opcoes": ["Via Láctea", "Rota da Seda", "Rota do Sol", "Rota do Comércio"],
+      "resposta": "Rota da Seda"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do ex-presidente do Brasil que governou durante a ditadura militar?",
+      "opcoes": ["Tancredo Neves", "João Goulart", "Fernando Henrique Cardoso", "Jair Bolsonaro"],
+      "resposta": "Jair Bolsonaro"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso líder sul-africano que lutou contra o Apartheid?",
+      "opcoes": ["Martin Luther King Jr.", "Nelson Mandela", "Mahatma Gandhi", "Winston Churchill"],
+      "resposta": "Nelson Mandela"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da doutrina que prega a separação dos três poderes: Executivo, Legislativo e Judiciário?",
+      "opcoes": ["Absolutismo", "Socialismo", "Liberalismo", "Tripartição dos Poderes"],
+      "resposta": "Tripartição dos Poderes"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em qual ano o Brasil foi descoberto pelos portugueses?",
+      "opcoes": ["1492", "1500", "1534", "1520"],
+      "resposta": "1500"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro imperador do Brasil?",
+      "opcoes": ["Dom Pedro II", "Dom Pedro I", "Getúlio Vargas", "Floriano Peixoto"],
+      "resposta": "Dom Pedro I"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro presidente do Brasil?",
+      "opcoes": ["Getúlio Vargas", "Floriano Peixoto", "Marechal Deodoro da Fonseca", "Prudente de Morais"],
+      "resposta": "Marechal Deodoro da Fonseca"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso líder indiano que lutou pela independência da Índia?",
+      "opcoes": ["Jawaharlal Nehru", "Mahatma Gandhi", "Nelson Mandela", "Winston Churchill"],
+      "resposta": "Mahatma Gandhi"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro presidente dos Estados Unidos?",
+      "opcoes": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+      "resposta": "George Washington"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso filósofo alemão que escreveu 'O Capital'?",
+      "opcoes": ["Karl Marx", "Friedrich Engels", "Adam Smith", "John Locke"],
+      "resposta": "Karl Marx"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em qual ano a Segunda Guerra Mundial teve seu início?",
+      "opcoes": ["1914", "1939", "1945", "1950"],
+      "resposta": "1939"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso muro que dividiu a Alemanha em duas partes?",
+      "opcoes": ["Muro de Berlim", "Muro da China", "Muro de Gelo", "Muro do Japão"],
+      "resposta": "Muro de Berlim"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do presidente do Brasil que governou durante a ditadura militar?",
+      "opcoes": ["Tancredo Neves", "João Goulart", "Fernando Henrique Cardoso", "Jair Bolsonaro"],
+      "resposta": "Jair Bolsonaro"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da famosa lei brasileira que aboliu a escravidão?",
+      "opcoes": ["Lei Áurea", "Lei do Ventre Livre", "Lei dos Sexagenários", "Lei Eusébio de Queirós"],
+      "resposta": "Lei Áurea"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da ideologia política defendida por Adolf Hitler na Alemanha?",
+      "opcoes": ["Fascismo", "Nazismo", "Comunismo", "Socialismo"],
+      "resposta": "Nazismo"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em que ano a Revolução Russa teve seu início?",
+      "opcoes": ["1914", "1917", "1929", "1945"],
+      "resposta": "1917"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da principal via de comunicação e comércio entre a Europa e a Ásia na Idade Média?",
+      "opcoes": ["Via Láctea", "Rota da Seda", "Rota do Sol", "Rota do Comércio"],
+      "resposta": "Rota da Seda"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do ex-presidente do Brasil que governou durante a ditadura militar?",
+      "opcoes": ["Tancredo Neves", "João Goulart", "Fernando Henrique Cardoso", "Jair Bolsonaro"],
+      "resposta": "Jair Bolsonaro"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso líder sul-africano que lutou contra o Apartheid?",
+      "opcoes": ["Martin Luther King Jr.", "Nelson Mandela", "Mahatma Gandhi", "Winston Churchill"],
+      "resposta": "Nelson Mandela"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da doutrina que prega a separação dos três poderes: Executivo, Legislativo e Judiciário?",
+      "opcoes": ["Absolutismo", "Socialismo", "Liberalismo", "Tripartição dos Poderes"],
+      "resposta": "Tripartição dos Poderes"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em qual ano o Brasil foi descoberto pelos portugueses?",
+      "opcoes": ["1492", "1500", "1534", "1520"],
+      "resposta": "1500"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro imperador do Brasil?",
+      "opcoes": ["Dom Pedro II", "Dom Pedro I", "Getúlio Vargas", "Floriano Peixoto"],
+      "resposta": "Dom Pedro I"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro presidente do Brasil?",
+      "opcoes": ["Getúlio Vargas", "Floriano Peixoto", "Marechal Deodoro da Fonseca", "Prudente de Morais"],
+      "resposta": "Marechal Deodoro da Fonseca"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso líder indiano que lutou pela independência da Índia?",
+      "opcoes": ["Jawaharlal Nehru", "Mahatma Gandhi", "Nelson Mandela", "Winston Churchill"],
+      "resposta": "Mahatma Gandhi"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro presidente dos Estados Unidos?",
+      "opcoes": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+      "resposta": "George Washington"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso filósofo alemão que escreveu 'O Capital'?",
+      "opcoes": ["Karl Marx", "Friedrich Engels", "Adam Smith", "John Locke"],
+      "resposta": "Karl Marx"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em qual ano a Segunda Guerra Mundial teve seu início?",
+      "opcoes": ["1914", "1939", "1945", "1950"],
+      "resposta": "1939"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso muro que dividiu a Alemanha em duas partes?",
+      "opcoes": ["Muro de Berlim", "Muro da China", "Muro de Gelo", "Muro do Japão"],
+      "resposta": "Muro de Berlim"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do presidente do Brasil que governou durante a ditadura militar?",
+      "opcoes": ["Tancredo Neves", "João Goulart", "Fernando Henrique Cardoso", "Jair Bolsonaro"],
+      "resposta": "Jair Bolsonaro"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da famosa lei brasileira que aboliu a escravidão?",
+      "opcoes": ["Lei Áurea", "Lei do Ventre Livre", "Lei dos Sexagenários", "Lei Eusébio de Queirós"],
+      "resposta": "Lei Áurea"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da ideologia política defendida por Adolf Hitler na Alemanha?",
+      "opcoes": ["Fascismo", "Nazismo", "Comunismo", "Socialismo"],
+      "resposta": "Nazismo"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em que ano a Revolução Russa teve seu início?",
+      "opcoes": ["1914", "1917", "1929", "1945"],
+      "resposta": "1917"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da principal via de comunicação e comércio entre a Europa e a Ásia na Idade Média?",
+      "opcoes": ["Via Láctea", "Rota da Seda", "Rota do Sol", "Rota do Comércio"],
+      "resposta": "Rota da Seda"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do ex-presidente do Brasil que governou durante a ditadura militar?",
+      "opcoes": ["Tancredo Neves", "João Goulart", "Fernando Henrique Cardoso", "Jair Bolsonaro"],
+      "resposta": "Jair Bolsonaro"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso líder sul-africano que lutou contra o Apartheid?",
+      "opcoes": ["Martin Luther King Jr.", "Nelson Mandela", "Mahatma Gandhi", "Winston Churchill"],
+      "resposta": "Nelson Mandela"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da doutrina que prega a separação dos três poderes: Executivo, Legislativo e Judiciário?",
+      "opcoes": ["Absolutismo", "Socialismo", "Liberalismo", "Tripartição dos Poderes"],
+      "resposta": "Tripartição dos Poderes"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em qual ano o Brasil foi descoberto pelos portugueses?",
+      "opcoes": ["1492", "1500", "1534", "1520"],
+      "resposta": "1500"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro imperador do Brasil?",
+      "opcoes": ["Dom Pedro II", "Dom Pedro I", "Getúlio Vargas", "Floriano Peixoto"],
+      "resposta": "Dom Pedro I"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro presidente do Brasil?",
+      "opcoes": ["Getúlio Vargas", "Floriano Peixoto", "Marechal Deodoro da Fonseca", "Prudente de Morais"],
+      "resposta": "Marechal Deodoro da Fonseca"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso líder indiano que lutou pela independência da Índia?",
+      "opcoes": ["Jawaharlal Nehru", "Mahatma Gandhi", "Nelson Mandela", "Winston Churchill"],
+      "resposta": "Mahatma Gandhi"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do primeiro presidente dos Estados Unidos?",
+      "opcoes": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+      "resposta": "George Washington"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso filósofo alemão que escreveu 'O Capital'?",
+      "opcoes": ["Karl Marx", "Friedrich Engels", "Adam Smith", "John Locke"],
+      "resposta": "Karl Marx"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Em qual ano a Segunda Guerra Mundial teve seu início?",
+      "opcoes": ["1914", "1939", "1945", "1950"],
+      "resposta": "1939"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do famoso muro que dividiu a Alemanha em duas partes?",
+      "opcoes": ["Muro de Berlim", "Muro da China", "Muro de Gelo", "Muro do Japão"],
+      "resposta": "Muro de Berlim"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome do presidente do Brasil que governou durante a ditadura militar?",
+      "opcoes": ["Tancredo Neves", "João Goulart", "Fernando Henrique Cardoso", "Jair Bolsonaro"],
+      "resposta": "Jair Bolsonaro"
+    },
+    {
+      "categoria": "Estudo",
+      "pergunta": "Qual o nome da famosa lei brasileira que aboliu a escravidão?",
+      "opcoes": ["Lei Áurea", "Lei do Ventre Livre", "Lei dos Sexagenários", "Lei Eusébio de Queirós"],
+      "resposta": "Lei Áurea"
+    }
+  ]

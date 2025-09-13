@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+        .quiz-title {
+            font-family: 'Nerko One', cursive, sans-serif !important;
+            font-weight: normal !important;
+            font-size: 110px !important;
+            line-height: 1 !important;
+            letter-spacing: -0.02em !important;
+        }
+        
+        @media (max-width: 768px) {
+            .quiz-title {
+                font-size: 80px !important;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .quiz-title {
+                font-size: 60px !important;
+            }
+        }
+
+.corner-shape {
+  position: absolute;
+}
+
+.floating-animation {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.pulse-animation {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+.theme-button {
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.theme-button:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.screen-transition {
+  transition: opacity 0.3s ease-in-out;
+}
+
+.quiz-card {
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+.option-button {
+  transition: all 0.2s ease;
+}
+
+.option-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.option-button:active {
+  transform: scale(0.98);
+}
+
+/* Animações das letras do título */
+.letter-animation {
+  transition: all 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.animate-bounce-in {
+  animation: bounceIn 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards;
+}
+
+.animate-bounce-in-delay-1 {
+  animation: bounceIn 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.1s forwards;
+}
+
+.animate-bounce-in-delay-2 {
+  animation: bounceIn 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.3s forwards;
+}
+
+.animate-bounce-in-delay-3 {
+  animation: bounceIn 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.5s forwards;
+}
+
+.animate-bounce-in-delay-4 {
+  animation: bounceIn 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.7s forwards;
+}
+
+.animate-bounce-in-delay-5 {
+  animation: bounceIn 1.2s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.9s forwards;
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: translateY(-100vh) scale(0.3);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(20px) scale(1.1);
+    opacity: 0.8;
+  }
+  70% {
+    transform: translateY(-10px) scale(0.95);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
